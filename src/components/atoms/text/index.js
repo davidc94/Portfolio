@@ -1,30 +1,30 @@
 import React from 'react';
 import styled from 'styled-components';
-import Colors from '../../../../utils/colors';
+import Colors from '../../../utils/colors';
 
 const fontSize = {
-  base: '18px',
-  large: '35px',
-  small: '12px',
+  base: '14px',
+  large: '24px',
+  small: '8px',
 };
 
 const customColor = {
-  header: Colors.header,
+  text: Colors.text,
 };
 
-const HeaderStyling = styled('h1')`
+const TextStyling = styled('p')`
     font-size: ${ props => props.size ? fontSize[props.size] : fontSize['base']};
-    color: ${ customColor.header };
+    color: ${ customColor.text };
 `;
 
-const StyledHeader = (props) => (
-  <HeaderStyling
+const StyledText = (props) => (
+  <TextStyling
     size={props.size}
     style={props.style}
     color={props.color}
   >
     {props.children}
-  </HeaderStyling>
+  </TextStyling>
 );
 
-export default StyledHeader;
+export default StyledText;

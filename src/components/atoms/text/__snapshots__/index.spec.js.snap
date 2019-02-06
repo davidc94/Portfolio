@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledText component render StyledText with a different font size 1`] = `
+<p
+  className="sc-bdVaJa wkRKl"
+  size="large"
+>
+  EXTRA BIG
+</p>
+`;
+
+exports[`StyledText component render default StyledText as expected 1`] = `
+<p
+  className="sc-bdVaJa jhpExi"
+>
+  I have nothing to offer
+</p>
+`;

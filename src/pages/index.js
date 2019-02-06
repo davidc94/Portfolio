@@ -1,5 +1,6 @@
 import React from "react"
-import StyledHeader from '../components/atoms/text/header';
+import StyledHeader from '../components/atoms/header';
+import StyledText from '../components/atoms/text';
 import Colors from '../utils/colors';
 
 export default () => (
@@ -12,8 +13,8 @@ export default () => (
         <StyledHeader size='base'>
             Welcome to my website!
         </StyledHeader>
-        <StyledHeader size='small'>
+        <StyledText size='large'>
             My name is David
-        </StyledHeader>
+        </StyledText>
     </div>
 )

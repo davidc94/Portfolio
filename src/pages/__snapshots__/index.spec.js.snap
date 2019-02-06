@@ -20,11 +20,11 @@ exports[`Index renders as expected 1`] = `
   >
     Welcome to my website!
   </h1>
-  <h1
-    className="sc-bdVaJa icuJlw"
-    size="small"
+  <p
+    className="sc-bwzfXH bCqCov"
+    size="large"
   >
     My name is David
-  </h1>
+  </p>
 </div>
 `;
