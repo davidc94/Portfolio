@@ -20,7 +20,9 @@ exports[`Index renders as expected 1`] = `
   >
     My name is David
   </p>
-  <div>
+  <div
+    className="sc-bxivhb cmOgBc"
+  >
     <li
       className="sc-htpNat fymtgb"
       size="large"

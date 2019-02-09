@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledDiv component render StyledDiv with a different border color 1`] = `
+<div
+  className="sc-bdVaJa jpmaOx"
+>
+  nice border color
+</div>
+`;
+
+exports[`StyledDiv component render StyledDiv with a different border width 1`] = `
+<div
+  className="sc-bdVaJa MOvfu"
+>
+  damn this border extra thicc
+</div>
+`;
+
+exports[`StyledDiv component render StyledDiv with a different border width and border color 1`] = `
+<div
+  className="sc-bdVaJa bTHXjp"
+>
+  wooooaaaahhhh
+</div>
+`;
+
+exports[`StyledDiv component render default StyledDiv as expected 1`] = `
+<div
+  className="sc-bdVaJa MOvfu"
+>
+  I have nothing to offer
+</div>
+`;

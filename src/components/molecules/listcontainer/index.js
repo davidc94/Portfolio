@@ -1,8 +1,10 @@
 import React from "react"
 import StyledListItem from '../../atoms/list';
+import StyledDiv from '../../atoms/div';
+import Colors from '../../../utils/colors';
 
 const ListContainer = () => (    
-  <div>
+  <StyledDiv borderWith='small' borderColor='border' >
     <StyledListItem size='large'>
         This is a list
     </StyledListItem>
@@ -12,7 +14,7 @@ const ListContainer = () => (
     <StyledListItem size='large'>
         This is a list
     </StyledListItem>
-  </div>
+</StyledDiv>
 )
 
 export default ListContainer;
