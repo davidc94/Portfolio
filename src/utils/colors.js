@@ -1,8 +1,8 @@
 const colors = {
     white: "#FFFFFF",
     black: "#000000",
-    background: "#373F51",
-    header: "#C7CEDB",
+    background: "#D9D9DB",
+    header: "#373F51",
     text: "#3A7CA5",
     accent: "",
 };

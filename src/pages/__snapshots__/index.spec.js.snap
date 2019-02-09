@@ -1,21 +1,15 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Index renders as expected 1`] = `
-<div
-  style={
-    Object {
-      "backgroundColor": "#373F51",
-    }
-  }
->
+<div>
   <h1
-    className="sc-bdVaJa jPLkst"
+    className="sc-bdVaJa kUmKSc"
     size="large"
   >
     Hello!
   </h1>
   <h1
-    className="sc-bdVaJa cEyAFy"
+    className="sc-bdVaJa gFtbtq"
     size="base"
   >
     Welcome to my website!
@@ -26,5 +20,25 @@ exports[`Index renders as expected 1`] = `
   >
     My name is David
   </p>
+  <div>
+    <li
+      className="sc-htpNat fymtgb"
+      size="large"
+    >
+      This is a list
+    </li>
+    <li
+      className="sc-htpNat fymtgb"
+      size="large"
+    >
+      This is a list
+    </li>
+    <li
+      className="sc-htpNat fymtgb"
+      size="large"
+    >
+      This is a list
+    </li>
+  </div>
 </div>
 `;

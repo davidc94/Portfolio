@@ -2,7 +2,7 @@
 
 exports[`StyledHeader component render StyledHeader with a different font size 1`] = `
 <h1
-  className="sc-bdVaJa jPLkst"
+  className="sc-bdVaJa kUmKSc"
   size="large"
 >
   EXTRA BIG
@@ -11,7 +11,7 @@ exports[`StyledHeader component render StyledHeader with a different font size 1
 
 exports[`StyledHeader component render default StyledHeader as expected 1`] = `
 <h1
-  className="sc-bdVaJa cEyAFy"
+  className="sc-bdVaJa gFtbtq"
 >
   I have nothing to offer
 </h1>

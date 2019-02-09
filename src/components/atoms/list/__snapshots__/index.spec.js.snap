@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledList component render StyledList with a different font size 1`] = `
+<li
+  className="sc-bdVaJa digvwl"
+  size="small"
+>
+  EXTRA small
+</li>
+`;
+
+exports[`StyledList component render default StyledList as expected 1`] = `
+<li
+  className="sc-bdVaJa jhpExi"
+>
+  I have nothing to offer
+</li>
+`;
