@@ -6,41 +6,46 @@ exports[`Index renders as expected 1`] = `
     className="sc-bdVaJa kUmKSc"
     size="large"
   >
-    Hello!
+    David Chellapah
   </h1>
   <h1
     className="sc-bdVaJa gFtbtq"
     size="base"
   >
-    Welcome to my website!
+    My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
   </h1>
   <p
     className="sc-bwzfXH bCqCov"
     size="large"
   >
-    My name is David
+    Projects
+  </p>
+  <p
+    className="sc-bwzfXH dGsVKy"
+    size="base"
+  >
+    Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
   </p>
   <div
-    className="sc-bxivhb cmOgBc"
+    className="sc-htpNat cuXZvC"
   >
     <li
-      className="sc-htpNat fymtgb"
-      size="large"
+      className="sc-bxivhb fxzeAI"
+      size="base"
     >
-      This is a list
+      This website
     </li>
     <li
-      className="sc-htpNat fymtgb"
-      size="large"
+      className="sc-bxivhb fxzeAI"
+      size="base"
     >
-      This is a list
-    </li>
-    <li
-      className="sc-htpNat fymtgb"
-      size="large"
-    >
-      This is a list
+      Smart Home App (Uni dissertation)
     </li>
   </div>
+  <p
+    className="sc-bwzfXH dGsVKy"
+  >
+    Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
+  </p>
 </div>
 `;
