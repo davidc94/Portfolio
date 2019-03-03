@@ -2,7 +2,7 @@
 
 exports[`StyledDiv component render StyledDiv with a different border color 1`] = `
 <div
-  className="sc-bdVaJa jpmaOx"
+  className="sc-bdVaJa dNKMMs"
 >
   nice border color
 </div>
@@ -10,7 +10,7 @@ exports[`StyledDiv component render StyledDiv with a different border color 1`] 
 
 exports[`StyledDiv component render StyledDiv with a different border width 1`] = `
 <div
-  className="sc-bdVaJa MOvfu"
+  className="sc-bdVaJa fjOXFI"
 >
   damn this border extra thicc
 </div>
@@ -18,7 +18,7 @@ exports[`StyledDiv component render StyledDiv with a different border width 1`] 
 
 exports[`StyledDiv component render StyledDiv with a different border width and border color 1`] = `
 <div
-  className="sc-bdVaJa bTHXjp"
+  className="sc-bdVaJa cmfknh"
 >
   wooooaaaahhhh
 </div>
@@ -26,7 +26,7 @@ exports[`StyledDiv component render StyledDiv with a different border width and 
 
 exports[`StyledDiv component render default StyledDiv as expected 1`] = `
 <div
-  className="sc-bdVaJa MOvfu"
+  className="sc-bdVaJa hRqMPd"
 >
   I have nothing to offer
 </div>

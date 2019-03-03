@@ -35,7 +35,7 @@ exports[`Index renders as expected 1`] = `
     Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
   </p>
   <div
-    className="sc-htpNat cuXZvC"
+    className="sc-htpNat ivMozR"
   >
     <li
       className="sc-bxivhb fxzeAI"
@@ -55,5 +55,36 @@ exports[`Index renders as expected 1`] = `
   >
     Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
   </p>
+  <a
+    href="https://github.com/davidc94"
+    target="_blank"
+  >
+    <div
+      className="sc-htpNat cijKQG"
+      style={
+        Object {
+          "margin": "8px",
+        }
+      }
+    >
+      <img
+        className="sc-ifAKCX eXPugd"
+        src=""
+      />
+    </div>
+  </a>
+  <a
+    href="https://www.linkedin.com/in/davidchellapah/"
+    target="_blank"
+  >
+    <div
+      className="sc-htpNat cijKQG"
+    >
+      <img
+        className="sc-ifAKCX eXPugd"
+        src=""
+      />
+    </div>
+  </a>
 </div>
 `;

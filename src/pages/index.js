@@ -4,6 +4,7 @@ import StyledHeader from '../components/atoms/header';
 import StyledText from '../components/atoms/text';
 import StyledDiv from '../components/atoms/div';
 import StyledListItem from '../components/atoms/list';
+import StyledSocialButton from '../components/molecules/socialbutton';
 import Colors from '../utils/colors';
 
 const GlobalStyle = createGlobalStyle`
@@ -41,5 +42,7 @@ export default () => (
       Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a 
       small collection of of videos and pictures from travelling ✈️.
     </StyledText>
+    <StyledSocialButton social='github' style={{ margin: '8px' }} />
+    <StyledSocialButton social='linkedin' />
   </div>
 )

@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledImage component render default StyledImage as expected 1`] = `
+<img
+  className="sc-bdVaJa eLbGxn"
+/>
+`;

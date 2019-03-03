@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SocialButton renders as expected with github 1`] = `
+<a
+  href="https://github.com/davidc94"
+  target="_blank"
+>
+  <div
+    className="sc-bdVaJa hKqlNT"
+  >
+    <img
+      className="sc-bwzfXH lkoPVR"
+      src=""
+    />
+  </div>
+</a>
+`;
+
+exports[`SocialButton renders as expected with linkedin 1`] = `
+<a
+  href="https://www.linkedin.com/in/davidchellapah/"
+  target="_blank"
+>
+  <div
+    className="sc-bdVaJa hKqlNT"
+  >
+    <img
+      className="sc-bwzfXH lkoPVR"
+      src=""
+    />
+  </div>
+</a>
+`;

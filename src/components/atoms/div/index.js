@@ -10,15 +10,22 @@ const customColor = {
 };
 
 const borderWidth = {
-  default: 0,
+  default: '0px',
   small: '2px',
-  medium: 4,
-  large: 8,
+  medium: '4px',
+  large: '8px',
 };
+
+const borderRadius = {
+  flat: '0px',
+  small: '2px',
+  medium: '4px',
+  large: '8px',
+}
 
 const DivStyling = styled('div')`
     border: ${ props => props.borderWidth ? borderWidth[props.borderWidth] : borderWidth['default'] } solid ${ props => props.borderColor ? customColor[props.borderColor] : customColor['default'] };
-    border-radius: 5px;
+    border-radius: ${ props => props.borderRadius ? borderRadius[props.borderRadius] : borderRadius['flat'] };
     display: inline-block;
     padding: 4px;
 `;
@@ -28,6 +35,7 @@ const StyledDiv = (props) => (
     style={props.style}
     borderColor={props.borderColor}
     borderWidth={props.borderWidth}
+    borderRadius={props.borderRadius}
   >
     {props.children}
   </DivStyling>
