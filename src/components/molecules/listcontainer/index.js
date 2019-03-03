@@ -4,7 +4,7 @@ import StyledDiv from '../../atoms/div';
 import Colors from '../../../utils/colors';
 
 const ListContainer = () => (    
-  <StyledDiv borderWith='small' borderColor='border' >
+  <StyledDiv borderWidth='small' borderColor='border' >
     <StyledListItem size='large'>
         This is a list
     </StyledListItem>

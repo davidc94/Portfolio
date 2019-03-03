@@ -29,7 +29,7 @@ export default () => (
     <StyledText size='base'>
       Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
     </StyledText>
-    <StyledDiv borderWith='small' borderColor='border' >
+    <StyledDiv borderWidth='small' borderColor='border' >
       <StyledListItem size='base'>
         This website
       </StyledListItem>
