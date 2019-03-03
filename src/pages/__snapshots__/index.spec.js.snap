@@ -1,7 +1,15 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Index renders as expected 1`] = `
-<div>
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+    }
+  }
+>
   <h1
     className="sc-bdVaJa kUmKSc"
     size="large"

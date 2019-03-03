@@ -4,7 +4,6 @@ import StyledHeader from '../components/atoms/header';
 import StyledText from '../components/atoms/text';
 import StyledDiv from '../components/atoms/div';
 import StyledListItem from '../components/atoms/list';
-import StyledListContainer from '../components/molecules/listcontainer';
 import Colors from '../utils/colors';
 
 const GlobalStyle = createGlobalStyle`
@@ -14,7 +13,9 @@ const GlobalStyle = createGlobalStyle`
 `
 
 export default () => (    
-  <div>
+  <div
+    style={{ display: 'flex', alignItems: 'center', flexDirection: 'column' }}
+  >
     <GlobalStyle />
     <StyledHeader size='large'>
       David Chellapah
