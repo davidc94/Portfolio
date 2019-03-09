@@ -15,4 +15,9 @@ module.exports = {
     },
     testURL: "http://localhost",
     setupFiles: ["<rootDir>/jest/loadershim.js"],
+    "collectCoverage": true,
+    "coverageReporters": [
+      "json",
+      "html"
+    ]
   }
