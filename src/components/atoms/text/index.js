@@ -12,9 +12,17 @@ const customColor = {
   text: Colors.text,
 };
 
+const margin = {
+  default: '0px',
+  small: '2px',
+  medium: '4px',
+  large: '8px',
+}
+
 const TextStyling = styled('p')`
     font-size: ${ props => props.size ? fontSize[props.size] : fontSize['base']};
     color: ${ customColor.text };
+    margin: ${ props => props.margin ? margin[props.margin] : margin['default']};
 `;
 
 const StyledText = (props) => (
@@ -22,6 +30,7 @@ const StyledText = (props) => (
     size={props.size}
     style={props.style}
     color={props.color}
+    margin={props.margin}
   >
     {props.children}
   </TextStyling>

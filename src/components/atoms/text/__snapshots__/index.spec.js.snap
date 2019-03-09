@@ -2,16 +2,24 @@
 
 exports[`StyledText component render StyledText with a different font size 1`] = `
 <p
-  className="sc-bdVaJa wkRKl"
+  className="sc-bdVaJa dQZhmm"
   size="large"
 >
   EXTRA BIG
 </p>
 `;
 
+exports[`StyledText component render StyledText with a different margin 1`] = `
+<p
+  className="sc-bdVaJa dsfUGA"
+>
+  wow, so much extra space
+</p>
+`;
+
 exports[`StyledText component render default StyledText as expected 1`] = `
 <p
-  className="sc-bdVaJa jhpExi"
+  className="sc-bdVaJa iAymrc"
 >
   I have nothing to offer
 </p>

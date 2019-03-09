@@ -16,4 +16,11 @@ describe('StyledHeader component', () => {
     );
     expect(render.toJSON()).toMatchSnapshot();
   });
+
+  it('render StyledHeader with a different margin', () => {
+    const render = renderer.create(
+      <StyledHeader margin="large">wow, so much extra space</StyledHeader>,
+    );
+    expect(render.toJSON()).toMatchSnapshot();
+  });
 });

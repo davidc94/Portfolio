@@ -16,4 +16,11 @@ describe('StyledText component', () => {
     );
     expect(render.toJSON()).toMatchSnapshot();
   });
+
+  it('render StyledText with a different margin', () => {
+    const render = renderer.create(
+      <StyledText margin="large">wow, so much extra space</StyledText>,
+    );
+    expect(render.toJSON()).toMatchSnapshot();
+  });
 });

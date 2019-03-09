@@ -12,9 +12,17 @@ const customColor = {
   header: Colors.header,
 };
 
+const margin = {
+  default: '0px',
+  small: '2px',
+  medium: '4px',
+  large: '8px',
+}
+
 const HeaderStyling = styled('h1')`
     font-size: ${ props => props.size ? fontSize[props.size] : fontSize['base']};
     color: ${ customColor.header };
+    margin: ${ props => props.margin ? margin[props.margin] : margin['default']};
 `;
 
 const StyledHeader = (props) => (
@@ -22,6 +30,7 @@ const StyledHeader = (props) => (
     size={props.size}
     style={props.style}
     color={props.color}
+    margin={props.margin}
   >
     {props.children}
   </HeaderStyling>

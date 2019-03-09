@@ -2,16 +2,24 @@
 
 exports[`StyledHeader component render StyledHeader with a different font size 1`] = `
 <h1
-  className="sc-bdVaJa kUmKSc"
+  className="sc-bdVaJa KCwkz"
   size="large"
 >
   EXTRA BIG
 </h1>
 `;
 
+exports[`StyledHeader component render StyledHeader with a different margin 1`] = `
+<h1
+  className="sc-bdVaJa TOYNj"
+>
+  wow, so much extra space
+</h1>
+`;
+
 exports[`StyledHeader component render default StyledHeader as expected 1`] = `
 <h1
-  className="sc-bdVaJa gFtbtq"
+  className="sc-bdVaJa bdkYlJ"
 >
   I have nothing to offer
 </h1>

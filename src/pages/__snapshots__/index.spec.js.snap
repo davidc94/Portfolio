@@ -15,26 +15,26 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <h1
-      className="sc-bdVaJa kUmKSc"
+      className="sc-bdVaJa KCwkz"
       size="large"
     >
       David Chellapah
     </h1>
     <h1
-      className="sc-bdVaJa gFtbtq"
+      className="sc-bdVaJa bdkYlJ"
       size="base"
     >
       My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
     </h1>
   </div>
   <p
-    className="sc-bwzfXH bCqCov"
+    className="sc-bwzfXH krYOqg"
     size="large"
   >
     Projects
   </p>
   <p
-    className="sc-bwzfXH dGsVKy"
+    className="sc-bwzfXH ivMVjM"
     size="base"
   >
     Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
@@ -56,7 +56,7 @@ exports[`Index renders as expected 1`] = `
     </li>
   </div>
   <p
-    className="sc-bwzfXH dGsVKy"
+    className="sc-bwzfXH ivMVjM"
   >
     Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
   </p>
