@@ -1,16 +1,32 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`StyledDiv component render StyledDiv with a different background color 1`] = `
+<div
+  className="sc-bdVaJa bMkdzm"
+>
+  nice background color
+</div>
+`;
+
 exports[`StyledDiv component render StyledDiv with a different border color 1`] = `
 <div
-  className="sc-bdVaJa dNKMMs"
+  className="sc-bdVaJa dDCAHe"
 >
   nice border color
 </div>
 `;
 
+exports[`StyledDiv component render StyledDiv with a different border radius 1`] = `
+<div
+  className="sc-bdVaJa fpBSHT"
+>
+  ooh, curvy
+</div>
+`;
+
 exports[`StyledDiv component render StyledDiv with a different border width 1`] = `
 <div
-  className="sc-bdVaJa fjOXFI"
+  className="sc-bdVaJa dJHkgi"
 >
   damn this border extra thicc
 </div>
@@ -18,15 +34,24 @@ exports[`StyledDiv component render StyledDiv with a different border width 1`] 
 
 exports[`StyledDiv component render StyledDiv with a different border width and border color 1`] = `
 <div
-  className="sc-bdVaJa cmfknh"
+  className="sc-bdVaJa dylmic"
 >
   wooooaaaahhhh
 </div>
 `;
 
+exports[`StyledDiv component render StyledDiv with a different width 1`] = `
+<div
+  className="sc-bdVaJa cYwCfy"
+  width="full"
+>
+  w i d e
+</div>
+`;
+
 exports[`StyledDiv component render default StyledDiv as expected 1`] = `
 <div
-  className="sc-bdVaJa hRqMPd"
+  className="sc-bdVaJa lctGqq"
 >
   I have nothing to offer
 </div>

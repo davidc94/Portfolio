@@ -10,18 +10,23 @@ exports[`Index renders as expected 1`] = `
     }
   }
 >
-  <h1
-    className="sc-bdVaJa kUmKSc"
-    size="large"
+  <div
+    className="sc-htpNat kIrJlB"
+    width="full"
   >
-    David Chellapah
-  </h1>
-  <h1
-    className="sc-bdVaJa gFtbtq"
-    size="base"
-  >
-    My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
-  </h1>
+    <h1
+      className="sc-bdVaJa kUmKSc"
+      size="large"
+    >
+      David Chellapah
+    </h1>
+    <h1
+      className="sc-bdVaJa gFtbtq"
+      size="base"
+    >
+      My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
+    </h1>
+  </div>
   <p
     className="sc-bwzfXH bCqCov"
     size="large"
@@ -35,7 +40,7 @@ exports[`Index renders as expected 1`] = `
     Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
   </p>
   <div
-    className="sc-htpNat ivMozR"
+    className="sc-htpNat hjgPtC"
   >
     <li
       className="sc-bxivhb fxzeAI"
@@ -60,7 +65,7 @@ exports[`Index renders as expected 1`] = `
     target="_blank"
   >
     <div
-      className="sc-htpNat cijKQG"
+      className="sc-htpNat jzjYZM"
       style={
         Object {
           "margin": "8px",
@@ -78,7 +83,7 @@ exports[`Index renders as expected 1`] = `
     target="_blank"
   >
     <div
-      className="sc-htpNat cijKQG"
+      className="sc-htpNat jzjYZM"
     >
       <img
         className="sc-ifAKCX eXPugd"

@@ -18,12 +18,14 @@ export default () => (
     style={{ display: 'flex', alignItems: 'center', flexDirection: 'column' }}
   >
     <GlobalStyle />
-    <StyledHeader size='large'>
-      David Chellapah
-    </StyledHeader>    
-    <StyledHeader size='base'>
-      My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
-    </StyledHeader>
+    <StyledDiv backgroundColor='border' width='full'>
+      <StyledHeader size='large'>
+        David Chellapah
+      </StyledHeader>    
+      <StyledHeader size='base'>
+        My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
+      </StyledHeader>
+    </StyledDiv>
     <StyledText size='large'>
       Projects
     </StyledText>

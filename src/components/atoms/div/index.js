@@ -2,6 +2,19 @@ import React from 'react';
 import styled from 'styled-components';
 import Colors from '../../../utils/colors';
 
+const backgroundColor = {
+  default: Colors.background,
+  text: Colors.text,
+  header: Colors.header,
+  border: Colors.border
+};
+
+const width = {
+  default: 'auto',
+  full: '100%',
+  half: '50%',
+}
+
 const borderColor = {
   default: Colors.background,
   text: Colors.text,
@@ -28,6 +41,8 @@ const DivStyling = styled('div')`
     border-radius: ${ props => props.borderRadius ? borderRadius[props.borderRadius] : borderRadius['flat'] };
     display: inline-block;
     padding: 4px;
+    background-color: ${ props => props.backgroundColor ? backgroundColor[props.backgroundColor] : backgroundColor['default'] };
+    width: ${ props => props.width ? width[props.width] : width['default'] };
 `;
 
 const StyledDiv = (props) => (
@@ -36,6 +51,8 @@ const StyledDiv = (props) => (
     borderColor={props.borderColor}
     borderWidth={props.borderWidth}
     borderRadius={props.borderRadius}
+    backgroundColor={props.backgroundColor}
+    width={props.width}
   >
     {props.children}
   </DivStyling>

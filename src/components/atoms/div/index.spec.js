@@ -9,7 +9,21 @@ describe('StyledDiv component', () => {
     );
     expect(render.toJSON()).toMatchSnapshot();
   });
-
+  
+  it('render StyledDiv with a different background color', () => {
+    const render = renderer.create(
+      <StyledDiv backgroundColor="border">nice background color</StyledDiv>,
+    );
+    expect(render.toJSON()).toMatchSnapshot();
+  });
+  
+  it('render StyledDiv with a different width', () => {
+    const render = renderer.create(
+      <StyledDiv width="full">w i d e</StyledDiv>,
+    );
+    expect(render.toJSON()).toMatchSnapshot();
+  });
+  
   it('render StyledDiv with a different border color', () => {
     const render = renderer.create(
       <StyledDiv borderColor="header">nice border color</StyledDiv>,
@@ -23,7 +37,14 @@ describe('StyledDiv component', () => {
     );
     expect(render.toJSON()).toMatchSnapshot();
   });
-
+  
+  it('render StyledDiv with a different border radius', () => {
+    const render = renderer.create(
+      <StyledDiv borderRadius="medium">ooh, curvy</StyledDiv>,
+    );
+    expect(render.toJSON()).toMatchSnapshot();
+  });
+  
   it('render StyledDiv with a different border width and border color', () => {
     const render = renderer.create(
       <StyledDiv borderWidth="medium" borderColor="border">wooooaaaahhhh</StyledDiv>,
