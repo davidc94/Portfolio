@@ -8,6 +8,9 @@ import StyledSocialButton from '../components/molecules/socialbutton';
 import Colors from '../utils/colors';
 
 const GlobalStyle = createGlobalStyle`
+  body {
+    margin: 0px;
+  }
   html {
     background-color: ${Colors.background};
   }
