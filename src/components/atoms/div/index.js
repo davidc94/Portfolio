@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import Colors from '../../../utils/colors';
 
-const customColor = {
+const borderColor = {
   default: Colors.background,
   text: Colors.text,
   header: Colors.header,
@@ -24,7 +24,7 @@ const borderRadius = {
 }
 
 const DivStyling = styled('div')`
-    border: ${ props => props.borderWidth ? borderWidth[props.borderWidth] : borderWidth['default'] } solid ${ props => props.borderColor ? customColor[props.borderColor] : customColor['default'] };
+    border: ${ props => props.borderWidth ? borderWidth[props.borderWidth] : borderWidth['default'] } solid ${ props => props.borderColor ? borderColor[props.borderColor] : borderColor['default'] };
     border-radius: ${ props => props.borderRadius ? borderRadius[props.borderRadius] : borderRadius['flat'] };
     display: inline-block;
     padding: 4px;
