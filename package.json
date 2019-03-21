@@ -1,7 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "Portfolio",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -9,7 +8,9 @@
     "start": "npm run develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "test:update": "jest --coverage -- -u",
+    "coverage": "open coverage/index.html"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
