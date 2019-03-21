@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutMe component render AboutMe as expected 1`] = `
+<div
+  className="sc-bwzfXH bfWiEF"
+>
+  <p
+    className="sc-bdVaJa dQZhmm"
+    color="#3A7CA5"
+    size="large"
+  >
+    About Me
+  </p>
+  <p
+    className="sc-bdVaJa kRyTSY"
+    size="base"
+  >
+    Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University in 2017 with a Bachelors degree in Computer Science.
+  </p>
+  <p
+    className="sc-bdVaJa kRyTSY"
+    size="base"
+  >
+    I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
+  </p>
+</div>
+`;

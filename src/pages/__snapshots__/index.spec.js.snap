@@ -11,7 +11,7 @@ exports[`Index renders as expected 1`] = `
   }
 >
   <div
-    className="sc-htpNat kIrJlB"
+    className="sc-bwzfXH defpno"
     width="full"
   >
     <h1
@@ -29,44 +29,48 @@ exports[`Index renders as expected 1`] = `
       My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
     </h1>
   </div>
-  <p
-    className="sc-bwzfXH krYOqg"
-    color="#3A7CA5"
-    size="large"
-  >
-    About Me
-  </p>
-  <p
-    className="sc-bwzfXH hMAXQV"
-    size="base"
-  >
-    Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University in 2017 with a Bachelors degree in Computer Science.
-  </p>
-  <p
-    className="sc-bwzfXH hMAXQV"
-    size="base"
-  >
-    I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
-  </p>
   <div
-    className="sc-htpNat kIrJlB"
+    className="sc-bwzfXH bfWiEF"
+  >
+    <p
+      className="sc-htpNat jSwhax"
+      color="#3A7CA5"
+      size="large"
+    >
+      About Me
+    </p>
+    <p
+      className="sc-htpNat dmdaKe"
+      size="base"
+    >
+      Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University in 2017 with a Bachelors degree in Computer Science.
+    </p>
+    <p
+      className="sc-htpNat dmdaKe"
+      size="base"
+    >
+      I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
+    </p>
+  </div>
+  <div
+    className="sc-bwzfXH defpno"
     width="full"
   >
     <p
-      className="sc-bwzfXH krYOqg"
-      color="#3A7CA5"
+      className="sc-htpNat dyxHlC"
+      color="#D9D9DB"
       size="large"
     >
       Projects
     </p>
     <p
-      className="sc-bwzfXH hMAXQV"
+      className="sc-htpNat dmdaKe"
       size="base"
     >
       Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
     </p>
     <div
-      className="sc-htpNat cwKrNt"
+      className="sc-bwzfXH gQdKXN"
     >
       <li
         className="sc-bxivhb gRIajC"
@@ -82,55 +86,63 @@ exports[`Index renders as expected 1`] = `
       </li>
     </div>
   </div>
-  <p
-    className="sc-bwzfXH krYOqg"
-    color="#3A7CA5"
-    size="large"
+  <div
+    className="sc-bwzfXH bfWiEF"
   >
-    Gallery
-  </p>
-  <p
-    className="sc-bwzfXH hMAXQV"
+    <p
+      className="sc-htpNat jSwhax"
+      color="#3A7CA5"
+      size="large"
+    >
+      Gallery
+    </p>
+    <p
+      className="sc-htpNat dmdaKe"
+    >
+      Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
+    </p>
+  </div>
+  <div
+    className="sc-bwzfXH bfWiEF"
   >
-    Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
-  </p>
-  <p
-    className="sc-bwzfXH krYOqg"
-    color="#3A7CA5"
-    size="large"
-  >
-    Social Stuff
-  </p>
-  <a
-    href="https://github.com/davidc94"
-    target="_blank"
-  >
-    <div
-      className="sc-htpNat jzjYZM"
-      style={
-        Object {
-          "margin": "8px",
+    <p
+      className="sc-htpNat jSwhax"
+      color="#3A7CA5"
+      size="large"
+    >
+      Social Stuff
+    </p>
+    <a
+      href="https://github.com/davidc94"
+      target="_blank"
+    >
+      <div
+        className="sc-bwzfXH jxXnAb"
+        style={
+          Object {
+            "margin": "8px",
+          }
         }
-      }
+      >
+        <img
+          className="sc-ifAKCX eXPugd"
+          src=""
+        />
+      </div>
+    </a>
+    <a
+      href="https://www.linkedin.com/in/davidchellapah/"
+      target="_blank"
     >
-      <img
-        className="sc-ifAKCX eXPugd"
-        src=""
-      />
-    </div>
-  </a>
-  <a
-    href="https://www.linkedin.com/in/davidchellapah/"
-    target="_blank"
-  >
-    <div
-      className="sc-htpNat jzjYZM"
-    >
-      <img
-        className="sc-ifAKCX eXPugd"
-        src=""
-      />
-    </div>
-  </a>
+      <div
+        className="sc-bwzfXH jxXnAb"
+      >
+        <img
+          className="sc-ifAKCX eXPugd"
+          src=""
+        />
+      </div>
+    </a>
+  </div>
 </div>
 `;

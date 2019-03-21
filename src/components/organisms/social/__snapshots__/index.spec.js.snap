@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Social component render Social as expected 1`] = `
+<div
+  className="sc-bwzfXH bfWiEF"
+>
+  <p
+    className="sc-bdVaJa dQZhmm"
+    color="#3A7CA5"
+    size="large"
+  >
+    Social Stuff
+  </p>
+  <a
+    href="https://github.com/davidc94"
+    target="_blank"
+  >
+    <div
+      className="sc-bwzfXH jxXnAb"
+      style={
+        Object {
+          "margin": "8px",
+        }
+      }
+    >
+      <img
+        className="sc-htpNat daoksz"
+        src=""
+      />
+    </div>
+  </a>
+  <a
+    href="https://www.linkedin.com/in/davidchellapah/"
+    target="_blank"
+  >
+    <div
+      className="sc-bwzfXH jxXnAb"
+    >
+      <img
+        className="sc-htpNat daoksz"
+        src=""
+      />
+    </div>
+  </a>
+</div>
+`;

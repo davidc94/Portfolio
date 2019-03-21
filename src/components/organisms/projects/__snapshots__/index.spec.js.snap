@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Projects component render Projects as expected 1`] = `
+<div
+  className="sc-bwzfXH defpno"
+  width="full"
+>
+  <p
+    className="sc-bdVaJa gHDaZI"
+    color="#D9D9DB"
+    size="large"
+  >
+    Projects
+  </p>
+  <p
+    className="sc-bdVaJa kRyTSY"
+    size="base"
+  >
+    Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
+  </p>
+  <div
+    className="sc-bwzfXH gQdKXN"
+  >
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      This website
+    </li>
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      Smart Home App (Uni dissertation)
+    </li>
+  </div>
+</div>
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component render Header as expected 1`] = `
+<div
+  className="sc-bwzfXH defpno"
+  width="full"
+>
+  <h1
+    className="sc-bdVaJa FiOwT"
+    color="#D9D9DB"
+    size="large"
+  >
+    David Chellapah
+  </h1>
+  <h1
+    className="sc-bdVaJa ilULbY"
+    color="#D9D9DB"
+    size="base"
+  >
+    My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
+  </h1>
+</div>
+`;

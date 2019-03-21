@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gallery component render Gallery as expected 1`] = `
+<div
+  className="sc-bwzfXH bfWiEF"
+>
+  <p
+    className="sc-bdVaJa dQZhmm"
+    color="#3A7CA5"
+    size="large"
+  >
+    Gallery
+  </p>
+  <p
+    className="sc-bdVaJa kRyTSY"
+  >
+    Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
+  </p>
+</div>
+`;
