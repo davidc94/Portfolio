@@ -8,10 +8,6 @@ const fontSize = {
   small: '8px',
 };
 
-const customColor = {
-  text: Colors.text,
-};
-
 const margin = {
   default: '0px',
   small: '2px',
@@ -21,7 +17,7 @@ const margin = {
 
 const TextStyling = styled('p')`
     font-size: ${ props => props.size ? fontSize[props.size] : fontSize['base']};
-    color: ${ customColor.text };
+    color: ${ props => props.color ? props.color: Colors.black };
     margin: ${ props => props.margin ? margin[props.margin] : margin['default']};
 `;
 

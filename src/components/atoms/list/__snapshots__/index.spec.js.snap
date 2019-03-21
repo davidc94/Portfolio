@@ -2,7 +2,7 @@
 
 exports[`StyledList component render StyledList with a different font size 1`] = `
 <li
-  className="sc-bdVaJa digvwl"
+  className="sc-bdVaJa fcTdMx"
   size="small"
 >
   EXTRA small
@@ -11,7 +11,7 @@ exports[`StyledList component render StyledList with a different font size 1`] =
 
 exports[`StyledList component render default StyledList as expected 1`] = `
 <li
-  className="sc-bdVaJa jhpExi"
+  className="sc-bdVaJa bFKYNT"
 >
   I have nothing to offer
 </li>

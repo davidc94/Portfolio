@@ -5,19 +5,19 @@ exports[`ListContainer renders as expected 1`] = `
   className="sc-bwzfXH lmlpAg"
 >
   <li
-    className="sc-bdVaJa wkRKl"
+    className="sc-bdVaJa imCgTo"
     size="large"
   >
     This is a list
   </li>
   <li
-    className="sc-bdVaJa wkRKl"
+    className="sc-bdVaJa imCgTo"
     size="large"
   >
     This is a list
   </li>
   <li
-    className="sc-bdVaJa wkRKl"
+    className="sc-bdVaJa imCgTo"
     size="large"
   >
     This is a list

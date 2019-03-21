@@ -1,8 +1,17 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`StyledText component render StyledText with a different color 1`] = `
+<p
+  className="sc-bdVaJa iAymrc"
+  color="#3A7CA5"
+>
+  cool blue
+</p>
+`;
+
 exports[`StyledText component render StyledText with a different font size 1`] = `
 <p
-  className="sc-bdVaJa dQZhmm"
+  className="sc-bdVaJa iKrFbH"
   size="large"
 >
   EXTRA BIG
@@ -11,7 +20,7 @@ exports[`StyledText component render StyledText with a different font size 1`] =
 
 exports[`StyledText component render StyledText with a different margin 1`] = `
 <p
-  className="sc-bdVaJa dsfUGA"
+  className="sc-bdVaJa hZKGDC"
 >
   wow, so much extra space
 </p>
@@ -19,7 +28,7 @@ exports[`StyledText component render StyledText with a different margin 1`] = `
 
 exports[`StyledText component render default StyledText as expected 1`] = `
 <p
-  className="sc-bdVaJa iAymrc"
+  className="sc-bdVaJa kRyTSY"
 >
   I have nothing to offer
 </p>

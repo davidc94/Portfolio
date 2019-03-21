@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0px;
   }
   html {
-    background-color: ${Colors.background};
+    background-color: ${Colors.lightGrey};
   }
 `
 
@@ -22,14 +22,14 @@ export default () => (
   >
     <GlobalStyle />
     <StyledDiv backgroundColor='border' width='full'>
-      <StyledHeader size='large'>
+      <StyledHeader size='large' color={Colors.lightGrey}>
         David Chellapah
       </StyledHeader>    
-      <StyledHeader size='base'>
+      <StyledHeader size='base' color={Colors.lightGrey}>
         My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
       </StyledHeader>
     </StyledDiv>
-    <StyledText size='large'>
+    <StyledText size='large' color={Colors.lightBlue}>
       Projects
     </StyledText>
     <StyledText size='base'>

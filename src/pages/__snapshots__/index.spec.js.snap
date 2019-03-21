@@ -15,13 +15,15 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <h1
-      className="sc-bdVaJa KCwkz"
+      className="sc-bdVaJa FiOwT"
+      color="#D9D9DB"
       size="large"
     >
       David Chellapah
     </h1>
     <h1
-      className="sc-bdVaJa bdkYlJ"
+      className="sc-bdVaJa ilULbY"
+      color="#D9D9DB"
       size="base"
     >
       My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
@@ -29,12 +31,13 @@ exports[`Index renders as expected 1`] = `
   </div>
   <p
     className="sc-bwzfXH krYOqg"
+    color="#3A7CA5"
     size="large"
   >
     Projects
   </p>
   <p
-    className="sc-bwzfXH ivMVjM"
+    className="sc-bwzfXH hMAXQV"
     size="base"
   >
     Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
@@ -43,20 +46,20 @@ exports[`Index renders as expected 1`] = `
     className="sc-htpNat hjgPtC"
   >
     <li
-      className="sc-bxivhb fxzeAI"
+      className="sc-bxivhb gRIajC"
       size="base"
     >
       This website
     </li>
     <li
-      className="sc-bxivhb fxzeAI"
+      className="sc-bxivhb gRIajC"
       size="base"
     >
       Smart Home App (Uni dissertation)
     </li>
   </div>
   <p
-    className="sc-bwzfXH ivMVjM"
+    className="sc-bwzfXH hMAXQV"
   >
     Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
   </p>

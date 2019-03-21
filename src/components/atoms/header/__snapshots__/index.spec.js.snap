@@ -1,8 +1,17 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`StyledHeader component render StyledHeader with a different color 1`] = `
+<h1
+  className="sc-bdVaJa ccxwzY"
+  color="#3A7CA5"
+>
+  cool blue
+</h1>
+`;
+
 exports[`StyledHeader component render StyledHeader with a different font size 1`] = `
 <h1
-  className="sc-bdVaJa KCwkz"
+  className="sc-bdVaJa MxZtf"
   size="large"
 >
   EXTRA BIG
@@ -11,7 +20,7 @@ exports[`StyledHeader component render StyledHeader with a different font size 1
 
 exports[`StyledHeader component render StyledHeader with a different margin 1`] = `
 <h1
-  className="sc-bdVaJa TOYNj"
+  className="sc-bdVaJa hLCDUM"
 >
   wow, so much extra space
 </h1>
@@ -19,7 +28,7 @@ exports[`StyledHeader component render StyledHeader with a different margin 1`] 
 
 exports[`StyledHeader component render default StyledHeader as expected 1`] = `
 <h1
-  className="sc-bdVaJa bdkYlJ"
+  className="sc-bdVaJa juuSpm"
 >
   I have nothing to offer
 </h1>

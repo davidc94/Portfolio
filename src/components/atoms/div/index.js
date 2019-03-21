@@ -3,10 +3,10 @@ import styled from 'styled-components';
 import Colors from '../../../utils/colors';
 
 const backgroundColor = {
-  default: Colors.background,
+  default: Colors.lightGrey,
   text: Colors.text,
-  header: Colors.header,
-  border: Colors.border
+  header: Colors.charcoal,
+  border: Colors.blue
 };
 
 const width = {
@@ -16,10 +16,10 @@ const width = {
 }
 
 const borderColor = {
-  default: Colors.background,
+  default: Colors.lightGrey,
   text: Colors.text,
-  header: Colors.header,
-  border: Colors.border
+  header: Colors.charcoal,
+  border: Colors.blue
 };
 
 const borderWidth = {
