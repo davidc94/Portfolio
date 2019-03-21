@@ -2,25 +2,11 @@ import React from 'react';
 import styled from 'styled-components';
 import Colors from '../../../utils/colors';
 
-const backgroundColor = {
-  default: Colors.lightGrey,
-  text: Colors.text,
-  header: Colors.charcoal,
-  border: Colors.blue
-};
-
 const width = {
   default: 'auto',
   full: '100%',
   half: '50%',
 }
-
-const borderColor = {
-  default: Colors.lightGrey,
-  text: Colors.text,
-  header: Colors.charcoal,
-  border: Colors.blue
-};
 
 const borderWidth = {
   default: '0px',
@@ -37,11 +23,11 @@ const borderRadius = {
 }
 
 const DivStyling = styled('div')`
-    border: ${ props => props.borderWidth ? borderWidth[props.borderWidth] : borderWidth['default'] } solid ${ props => props.borderColor ? borderColor[props.borderColor] : borderColor['default'] };
+    border: ${ props => props.borderWidth ? borderWidth[props.borderWidth] : borderWidth['default'] } solid ${ props => props.borderColor ? props.borderColor : Colors.lightGrey };
     border-radius: ${ props => props.borderRadius ? borderRadius[props.borderRadius] : borderRadius['flat'] };
     display: inline-block;
     padding: 4px;
-    background-color: ${ props => props.backgroundColor ? backgroundColor[props.backgroundColor] : backgroundColor['default'] };
+    background-color: ${ props => props.backgroundColor ? props.backgroundColor : Colors.lightGrey };
     width: ${ props => props.width ? width[props.width] : width['default'] };
 `;
 

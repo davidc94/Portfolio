@@ -34,34 +34,72 @@ exports[`Index renders as expected 1`] = `
     color="#3A7CA5"
     size="large"
   >
-    Projects
+    About Me
   </p>
   <p
     className="sc-bwzfXH hMAXQV"
     size="base"
   >
-    Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
+    Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University in 2017 with a Bachelors degree in Computer Science.
+  </p>
+  <p
+    className="sc-bwzfXH hMAXQV"
+    size="base"
+  >
+    I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
   </p>
   <div
-    className="sc-htpNat hjgPtC"
+    className="sc-htpNat kIrJlB"
+    width="full"
   >
-    <li
-      className="sc-bxivhb gRIajC"
+    <p
+      className="sc-bwzfXH krYOqg"
+      color="#3A7CA5"
+      size="large"
+    >
+      Projects
+    </p>
+    <p
+      className="sc-bwzfXH hMAXQV"
       size="base"
     >
-      This website
-    </li>
-    <li
-      className="sc-bxivhb gRIajC"
-      size="base"
+      Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
+    </p>
+    <div
+      className="sc-htpNat cwKrNt"
     >
-      Smart Home App (Uni dissertation)
-    </li>
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        This website
+      </li>
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        Smart Home App (Uni dissertation)
+      </li>
+    </div>
   </div>
+  <p
+    className="sc-bwzfXH krYOqg"
+    color="#3A7CA5"
+    size="large"
+  >
+    Gallery
+  </p>
   <p
     className="sc-bwzfXH hMAXQV"
   >
     Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
+  </p>
+  <p
+    className="sc-bwzfXH krYOqg"
+    color="#3A7CA5"
+    size="large"
+  >
+    Social Stuff
   </p>
   <a
     href="https://github.com/davidc94"

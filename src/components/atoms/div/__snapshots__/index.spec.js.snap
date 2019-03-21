@@ -10,7 +10,7 @@ exports[`StyledDiv component render StyledDiv with a different background color 
 
 exports[`StyledDiv component render StyledDiv with a different border color 1`] = `
 <div
-  className="sc-bdVaJa dDCAHe"
+  className="sc-bdVaJa HpTGV"
 >
   nice border color
 </div>
@@ -34,7 +34,7 @@ exports[`StyledDiv component render StyledDiv with a different border width 1`] 
 
 exports[`StyledDiv component render StyledDiv with a different border width and border color 1`] = `
 <div
-  className="sc-bdVaJa dylmic"
+  className="sc-bdVaJa jnFMcT"
 >
   wooooaaaahhhh
 </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import StyledDiv from './index';
+import Colors from '../../../utils/colors';
 
 describe('StyledDiv component', () => {
   it('render default StyledDiv as expected', () => {
@@ -12,7 +13,7 @@ describe('StyledDiv component', () => {
   
   it('render StyledDiv with a different background color', () => {
     const render = renderer.create(
-      <StyledDiv backgroundColor="border">nice background color</StyledDiv>,
+      <StyledDiv backgroundColor={Colors.blue}>nice background color</StyledDiv>,
     );
     expect(render.toJSON()).toMatchSnapshot();
   });
