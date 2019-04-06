@@ -6,14 +6,31 @@ exports[`Header component render Header as expected 1`] = `
   width="full"
 >
   <div
-    className=""
-  />
+    className="sc-bwzfXH ljKOBm"
+  >
+    <h1
+      className="sc-bdVaJa keKNH"
+      color="#D9D9DB"
+      size="huge"
+    >
+      David
+    </h1>
+    <h1
+      className="sc-bdVaJa FiOwT"
+      color="#D9D9DB"
+      size="large"
+    >
+      Chellapah
+    </h1>
+  </div>
   <h1
     className="sc-bdVaJa ilULbY"
     color="#D9D9DB"
     size="base"
   >
-    Hello and welcome to my website 😎 I am a software developer from London (born and raised).
+    <div
+      className=""
+    />
   </h1>
 </div>
 `;
