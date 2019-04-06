@@ -13,37 +13,28 @@ const Skills = (props) => (
     <StyledText size='base'>
       Here are some of the skills 🥋 I've picked up along the way
     </StyledText>
-    <StyledDiv backgroundColor={Colors.blue}>
-      <Typing>
-        <Typing.Delay ms={2000} />
-        <StyledListItem size='base'>
-          React Native
-        </StyledListItem>
-        <Typing.Delay ms={500} />
-        <StyledListItem size='base'>
-          React
-        </StyledListItem>
-        <Typing.Delay ms={500} />
-        <StyledListItem size='base'>
-          Jest
-        </StyledListItem>
-        <Typing.Delay ms={500} />
-        <StyledListItem size='base'>
-          GraphQL
-        </StyledListItem>
-        <Typing.Delay ms={500} />
-        <StyledListItem size='base'>
-          App Development
-        </StyledListItem>
-        <Typing.Delay ms={500} />
-        <StyledListItem size='base'>
-          CI/CD Pipelines
-        </StyledListItem>
-        <Typing.Delay ms={500} />
-        <StyledListItem size='base'>
-          Jenkins
-        </StyledListItem>
-      </Typing>
+    <StyledDiv borderWidth='small' borderColor={Colors.lightGrey} backgroundColor={Colors.blue} borderRadius='medium'>
+      <StyledListItem size='base'>
+        React Native
+      </StyledListItem>
+      <StyledListItem size='base'>
+        React
+      </StyledListItem>
+      <StyledListItem size='base'>
+        Jest
+      </StyledListItem>
+      <StyledListItem size='base'>
+        GraphQL
+      </StyledListItem>
+      <StyledListItem size='base'>
+        App Development
+      </StyledListItem>
+      <StyledListItem size='base'>
+        CI/CD Pipelines
+      </StyledListItem>
+      <StyledListItem size='base'>
+        Jenkins
+      </StyledListItem>
     </StyledDiv>
   </StyledDiv>
 )

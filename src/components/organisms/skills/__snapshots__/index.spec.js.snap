@@ -19,11 +19,50 @@ exports[`Skills component render Skills as expected 1`] = `
     Here are some of the skills 🥋 I've picked up along the way
   </p>
   <div
-    className="sc-bwzfXH ljKOBm"
+    className="sc-bwzfXH gQdKXN"
   >
-    <div
-      className=""
-    />
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      React Native
+    </li>
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      React
+    </li>
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      Jest
+    </li>
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      GraphQL
+    </li>
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      App Development
+    </li>
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      CI/CD Pipelines
+    </li>
+    <li
+      className="sc-htpNat eAyckY"
+      size="base"
+    >
+      Jenkins
+    </li>
   </div>
 </div>
 `;

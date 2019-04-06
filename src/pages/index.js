@@ -10,7 +10,8 @@ import Social from '../components/organisms/social';
 
 const GlobalStyle = createGlobalStyle`
   body {
-    margin: 0px;
+    margin: 0 auto;
+    max-width: 1080px;
   }
   html {
     background-color: ${Colors.lightGrey};
@@ -19,7 +20,12 @@ const GlobalStyle = createGlobalStyle`
 
 export default () => (    
   <div
-    style={{ display: 'flex', alignItems: 'center', flexDirection: 'column' }}
+    style={{ 
+      display: 'flex',
+      alignItems: 'center',
+      flexDirection: 'column',
+      justifyContent: 'center',
+    }}
   >
     <GlobalStyle />
     <Header />

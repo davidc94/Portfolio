@@ -5,15 +5,9 @@ exports[`Header component render Header as expected 1`] = `
   className="sc-bwzfXH defpno"
   width="full"
 >
-  <h1
-    className="sc-bdVaJa FiOwT"
-    color="#D9D9DB"
-    size="large"
-  >
-    <div
-      className=""
-    />
-  </h1>
+  <div
+    className=""
+  />
   <h1
     className="sc-bdVaJa ilULbY"
     color="#D9D9DB"

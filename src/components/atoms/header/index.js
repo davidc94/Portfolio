@@ -3,9 +3,10 @@ import styled from 'styled-components';
 import Colors from '../../../utils/colors';
 
 const fontSize = {
+  small: '12px',
   base: '18px',
   large: '35px',
-  small: '12px',
+  huge: '72px',
 };
 
 const margin = {

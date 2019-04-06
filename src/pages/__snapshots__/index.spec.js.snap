@@ -7,6 +7,7 @@ exports[`Index renders as expected 1`] = `
       "alignItems": "center",
       "display": "flex",
       "flexDirection": "column",
+      "justifyContent": "center",
     }
   }
 >
@@ -14,15 +15,9 @@ exports[`Index renders as expected 1`] = `
     className="sc-bwzfXH defpno"
     width="full"
   >
-    <h1
-      className="sc-bdVaJa FiOwT"
-      color="#D9D9DB"
-      size="large"
-    >
-      <div
-        className=""
-      />
-    </h1>
+    <div
+      className=""
+    />
     <h1
       className="sc-bdVaJa ilULbY"
       color="#D9D9DB"
@@ -106,11 +101,50 @@ exports[`Index renders as expected 1`] = `
       Here are some of the skills 🥋 I've picked up along the way
     </p>
     <div
-      className="sc-bwzfXH ljKOBm"
+      className="sc-bwzfXH gQdKXN"
     >
-      <div
-        className=""
-      />
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        React Native
+      </li>
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        React
+      </li>
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        Jest
+      </li>
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        GraphQL
+      </li>
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        App Development
+      </li>
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        CI/CD Pipelines
+      </li>
+      <li
+        className="sc-bxivhb gRIajC"
+        size="base"
+      >
+        Jenkins
+      </li>
     </div>
   </div>
   <div
