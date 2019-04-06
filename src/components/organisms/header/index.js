@@ -31,6 +31,7 @@ const Header = (props) => (
         <Typing.Speed ms={10} />
         <Typing.Backspace count={37} />
         <Typing.Speed ms={50} />
+        <Typing.Delay ms={1000} />
       </Typing>
     </StyledHeader>
   </StyledDiv>
