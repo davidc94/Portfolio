@@ -19,14 +19,16 @@ exports[`Index renders as expected 1`] = `
       color="#D9D9DB"
       size="large"
     >
-      David Chellapah
+      <div
+        className=""
+      />
     </h1>
     <h1
       className="sc-bdVaJa ilULbY"
       color="#D9D9DB"
       size="base"
     >
-      My name is David and welcome to my website 😎 I am a software developer from London (born and raised).
+      Hello and welcome to my website 😎 I am a software developer from London (born and raised).
     </h1>
   </div>
   <div
