@@ -89,6 +89,31 @@ exports[`Index renders as expected 1`] = `
     </div>
   </div>
   <div
+    className="sc-bwzfXH defpno"
+    width="full"
+  >
+    <p
+      className="sc-htpNat dyxHlC"
+      color="#D9D9DB"
+      size="large"
+    >
+      Skills
+    </p>
+    <p
+      className="sc-htpNat dmdaKe"
+      size="base"
+    >
+      Here are some of the skills 🥋 I've picked up along the way
+    </p>
+    <div
+      className="sc-bwzfXH ljKOBm"
+    >
+      <div
+        className=""
+      />
+    </div>
+  </div>
+  <div
     className="sc-bwzfXH bfWiEF"
   >
     <p

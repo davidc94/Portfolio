@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Skills component render Skills as expected 1`] = `
+<div
+  className="sc-bwzfXH defpno"
+  width="full"
+>
+  <p
+    className="sc-bdVaJa gHDaZI"
+    color="#D9D9DB"
+    size="large"
+  >
+    Skills
+  </p>
+  <p
+    className="sc-bdVaJa kRyTSY"
+    size="base"
+  >
+    Here are some of the skills 🥋 I've picked up along the way
+  </p>
+  <div
+    className="sc-bwzfXH ljKOBm"
+  >
+    <div
+      className=""
+    />
+  </div>
+</div>
+`;

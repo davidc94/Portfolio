@@ -4,6 +4,7 @@ import Colors from '../utils/colors';
 import Header from '../components/organisms/header';
 import AboutMe from '../components/organisms/aboutme';
 import Projects from '../components/organisms/projects';
+import Skills from '../components/organisms/skills';
 import Gallery from '../components/organisms/gallery';
 import Social from '../components/organisms/social';
 
@@ -24,6 +25,7 @@ export default () => (
     <Header />
     <AboutMe />
     <Projects />
+    <Skills />
     <Gallery />
     <Social />
   </div>
