@@ -13,10 +13,23 @@ exports[`Index renders as expected 1`] = `
 >
   <div
     className="sc-bwzfXH defpno"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "justifyContent": "flex-start",
+      }
+    }
     width="full"
   >
     <div
       className="sc-bwzfXH ljKOBm"
+      style={
+        Object {
+          "flex": 1,
+          "paddingLeft": "16px",
+        }
+      }
     >
       <h1
         className="sc-bdVaJa keKNH"
@@ -33,15 +46,28 @@ exports[`Index renders as expected 1`] = `
         Chellapah
       </h1>
     </div>
-    <h1
-      className="sc-bdVaJa ilULbY"
-      color="#D9D9DB"
-      size="base"
+    <div
+      className="sc-bwzfXH ljKOBm"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
     >
       <div
-        className=""
-      />
-    </h1>
+        className="sc-bwzfXH ljKOBm"
+      >
+        <h1
+          className="sc-bdVaJa ilULbY"
+          color="#D9D9DB"
+          size="base"
+        >
+          <div
+            className=""
+          />
+        </h1>
+      </div>
+    </div>
   </div>
   <div
     className="sc-bwzfXH bfWiEF"
