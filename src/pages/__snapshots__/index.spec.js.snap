@@ -12,7 +12,7 @@ exports[`Index renders as expected 1`] = `
   }
 >
   <div
-    className="sc-bwzfXH defpno"
+    className="sc-bwzfXH bejfXd"
     style={
       Object {
         "alignItems": "center",
@@ -23,7 +23,7 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-bwzfXH ljKOBm"
+      className="sc-bwzfXH iewMrH"
       style={
         Object {
           "flex": 1,
@@ -32,22 +32,22 @@ exports[`Index renders as expected 1`] = `
       }
     >
       <h1
-        className="sc-bdVaJa keKNH"
-        color="#D9D9DB"
+        className="sc-bdVaJa gSBKap"
+        color="#A8DADC"
         size="huge"
       >
         David
       </h1>
       <h1
-        className="sc-bdVaJa FiOwT"
-        color="#D9D9DB"
+        className="sc-bdVaJa ksuAVZ"
+        color="#A8DADC"
         size="large"
       >
         Chellapah
       </h1>
     </div>
     <div
-      className="sc-bwzfXH ljKOBm"
+      className="sc-bwzfXH iewMrH"
       style={
         Object {
           "flex": 1,
@@ -55,11 +55,11 @@ exports[`Index renders as expected 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH ljKOBm"
+        className="sc-bwzfXH iewMrH"
       >
         <h1
-          className="sc-bdVaJa ilULbY"
-          color="#D9D9DB"
+          className="sc-bdVaJa jdHjnZ"
+          color="#EEE5E9"
           size="base"
         >
           <div
@@ -70,11 +70,12 @@ exports[`Index renders as expected 1`] = `
     </div>
   </div>
   <div
-    className="sc-bwzfXH bfWiEF"
+    className="sc-bwzfXH hweCyD"
+    width="full"
   >
     <p
-      className="sc-htpNat jSwhax"
-      color="#3A7CA5"
+      className="sc-htpNat aVGNT"
+      color="#FF595E"
       size="large"
     >
       About Me
@@ -93,33 +94,36 @@ exports[`Index renders as expected 1`] = `
     </p>
   </div>
   <div
-    className="sc-bwzfXH defpno"
+    className="sc-bwzfXH bejfXd"
     width="full"
   >
     <p
-      className="sc-htpNat dyxHlC"
-      color="#D9D9DB"
+      className="sc-htpNat kYTENA"
+      color="#A8DADC"
       size="large"
     >
       Projects
     </p>
     <p
-      className="sc-htpNat dmdaKe"
+      className="sc-htpNat jDvPmp"
+      color="#EEE5E9"
       size="base"
     >
       Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
     </p>
     <div
-      className="sc-bwzfXH gQdKXN"
+      className="sc-bwzfXH hycTDa"
     >
       <li
-        className="sc-bxivhb gRIajC"
+        className="sc-bxivhb gaFTQJ"
+        color="#EEE5E9"
         size="base"
       >
         This website
       </li>
       <li
-        className="sc-bxivhb gRIajC"
+        className="sc-bxivhb gaFTQJ"
+        color="#EEE5E9"
         size="base"
       >
         Smart Home App (Uni dissertation)
@@ -127,75 +131,12 @@ exports[`Index renders as expected 1`] = `
     </div>
   </div>
   <div
-    className="sc-bwzfXH defpno"
+    className="sc-bwzfXH hweCyD"
     width="full"
   >
     <p
-      className="sc-htpNat dyxHlC"
-      color="#D9D9DB"
-      size="large"
-    >
-      Skills
-    </p>
-    <p
-      className="sc-htpNat dmdaKe"
-      size="base"
-    >
-      Here are some of the skills 🥋 I've picked up along the way
-    </p>
-    <div
-      className="sc-bwzfXH gQdKXN"
-    >
-      <li
-        className="sc-bxivhb gRIajC"
-        size="base"
-      >
-        React Native
-      </li>
-      <li
-        className="sc-bxivhb gRIajC"
-        size="base"
-      >
-        React
-      </li>
-      <li
-        className="sc-bxivhb gRIajC"
-        size="base"
-      >
-        Jest
-      </li>
-      <li
-        className="sc-bxivhb gRIajC"
-        size="base"
-      >
-        GraphQL
-      </li>
-      <li
-        className="sc-bxivhb gRIajC"
-        size="base"
-      >
-        App Development
-      </li>
-      <li
-        className="sc-bxivhb gRIajC"
-        size="base"
-      >
-        CI/CD Pipelines
-      </li>
-      <li
-        className="sc-bxivhb gRIajC"
-        size="base"
-      >
-        Jenkins
-      </li>
-    </div>
-  </div>
-  <div
-    className="sc-bwzfXH bfWiEF"
-  >
-    <p
-      className="sc-htpNat jSwhax"
-      color="#3A7CA5"
+      className="sc-htpNat aVGNT"
+      color="#FF595E"
       size="large"
     >
       Gallery
@@ -207,46 +148,58 @@ exports[`Index renders as expected 1`] = `
     </p>
   </div>
   <div
-    className="sc-bwzfXH bfWiEF"
+    className="sc-bwzfXH hweCyD"
+    width="full"
   >
     <p
-      className="sc-htpNat jSwhax"
-      color="#3A7CA5"
+      className="sc-htpNat aVGNT"
+      color="#FF595E"
       size="large"
     >
       Social Stuff
     </p>
-    <a
-      href="https://github.com/davidc94"
-      target="_blank"
-    >
-      <div
-        className="sc-bwzfXH jxXnAb"
-        style={
-          Object {
-            "margin": "8px",
-          }
+    <div
+      className="sc-bwzfXH cvQdJg"
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "justifyContent": "center",
         }
-      >
-        <img
-          className="sc-ifAKCX eXPugd"
-          src=""
-        />
-      </div>
-    </a>
-    <a
-      href="https://www.linkedin.com/in/davidchellapah/"
-      target="_blank"
+      }
     >
-      <div
-        className="sc-bwzfXH jxXnAb"
+      <a
+        href="https://github.com/davidc94"
+        target="_blank"
       >
-        <img
-          className="sc-ifAKCX eXPugd"
-          src=""
-        />
-      </div>
-    </a>
+        <div
+          className="sc-bwzfXH lfTWUW"
+          style={
+            Object {
+              "margin": "8px",
+            }
+          }
+        >
+          <img
+            className="sc-ifAKCX eXPugd"
+            src=""
+          />
+        </div>
+      </a>
+      <a
+        href="https://www.linkedin.com/in/davidchellapah/"
+        target="_blank"
+      >
+        <div
+          className="sc-bwzfXH lfTWUW"
+        >
+          <img
+            className="sc-ifAKCX eXPugd"
+            src=""
+          />
+        </div>
+      </a>
+    </div>
   </div>
 </div>
 `;

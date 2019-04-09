@@ -5,12 +5,14 @@ import StyledDiv from '../../atoms/div';
 import StyledSocialButton from '../../molecules/socialbutton';
 
 const Social = (props) => (
-  <StyledDiv>
-    <StyledText size='large' color={Colors.lightBlue}>
+  <StyledDiv width='full' >
+    <StyledText size='large' color={Colors.accent}>
       Social Stuff
     </StyledText>
-    <StyledSocialButton social='github' style={{ margin: '8px' }} />
-    <StyledSocialButton social='linkedin' />
+    <StyledDiv style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+      <StyledSocialButton social='github' style={{ margin: '8px' }} />
+      <StyledSocialButton social='linkedin' />
+    </StyledDiv>
   </StyledDiv>
 );
 

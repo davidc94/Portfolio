@@ -7,10 +7,10 @@ import StyledDiv from '../../atoms/div';
 const Header = (props) => (
   <StyledDiv backgroundColor={Colors.blue} width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start' }} >
     <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1, paddingLeft: '16px' }} >
-      <StyledHeader size='huge' color={Colors.lightGrey}>
+      <StyledHeader size='huge' color={Colors.lightBlue}>
         David
       </StyledHeader>
-      <StyledHeader size='large' color={Colors.lightGrey}>
+      <StyledHeader size='large' color={Colors.lightBlue}>
         Chellapah
       </StyledHeader>
     </StyledDiv>

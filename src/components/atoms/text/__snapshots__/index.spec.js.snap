@@ -2,8 +2,8 @@
 
 exports[`StyledText component render StyledText with a different color 1`] = `
 <p
-  className="sc-bdVaJa iAymrc"
-  color="#3A7CA5"
+  className="sc-bdVaJa bgYTEN"
+  color="#A8DADC"
 >
   cool blue
 </p>

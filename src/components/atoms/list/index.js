@@ -8,13 +8,9 @@ const fontSize = {
   small: '8px',
 };
 
-const customColor = {
-  text: Colors.text,
-};
-
 const ListStyling = styled('li')`
     font-size: ${ props => props.size ? fontSize[props.size] : fontSize['base']};
-    color: ${ customColor.text };
+    color: ${ props => props.color };
 `;
 
 const StyledList = (props) => (

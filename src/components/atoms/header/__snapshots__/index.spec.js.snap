@@ -2,8 +2,8 @@
 
 exports[`StyledHeader component render StyledHeader with a different color 1`] = `
 <h1
-  className="sc-bdVaJa ccxwzY"
-  color="#3A7CA5"
+  className="sc-bdVaJa eSRXe"
+  color="#A8DADC"
 >
   cool blue
 </h1>

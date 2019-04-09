@@ -2,11 +2,12 @@
 
 exports[`Gallery component render Gallery as expected 1`] = `
 <div
-  className="sc-bwzfXH bfWiEF"
+  className="sc-bwzfXH hweCyD"
+  width="full"
 >
   <p
-    className="sc-bdVaJa dQZhmm"
-    color="#3A7CA5"
+    className="sc-bdVaJa AmpcB"
+    color="#FF595E"
     size="large"
   >
     Gallery

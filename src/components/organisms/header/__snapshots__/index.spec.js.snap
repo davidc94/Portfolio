@@ -2,7 +2,7 @@
 
 exports[`Header component render Header as expected 1`] = `
 <div
-  className="sc-bwzfXH defpno"
+  className="sc-bwzfXH bejfXd"
   style={
     Object {
       "alignItems": "center",
@@ -13,7 +13,7 @@ exports[`Header component render Header as expected 1`] = `
   width="full"
 >
   <div
-    className="sc-bwzfXH ljKOBm"
+    className="sc-bwzfXH iewMrH"
     style={
       Object {
         "flex": 1,
@@ -22,22 +22,22 @@ exports[`Header component render Header as expected 1`] = `
     }
   >
     <h1
-      className="sc-bdVaJa keKNH"
-      color="#D9D9DB"
+      className="sc-bdVaJa gSBKap"
+      color="#A8DADC"
       size="huge"
     >
       David
     </h1>
     <h1
-      className="sc-bdVaJa FiOwT"
-      color="#D9D9DB"
+      className="sc-bdVaJa ksuAVZ"
+      color="#A8DADC"
       size="large"
     >
       Chellapah
     </h1>
   </div>
   <div
-    className="sc-bwzfXH ljKOBm"
+    className="sc-bwzfXH iewMrH"
     style={
       Object {
         "flex": 1,
@@ -45,11 +45,11 @@ exports[`Header component render Header as expected 1`] = `
     }
   >
     <div
-      className="sc-bwzfXH ljKOBm"
+      className="sc-bwzfXH iewMrH"
     >
       <h1
-        className="sc-bdVaJa ilULbY"
-        color="#D9D9DB"
+        className="sc-bdVaJa jdHjnZ"
+        color="#EEE5E9"
         size="base"
       >
         <div

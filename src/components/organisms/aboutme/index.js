@@ -4,8 +4,8 @@ import StyledText from '../../atoms/text';
 import StyledDiv from '../../atoms/div';
 
 const AboutMe = (props) => (
-  <StyledDiv>
-    <StyledText size='large' color={Colors.lightBlue}>
+  <StyledDiv width='full' >
+    <StyledText size='large' color={Colors.accent}>
       About Me
     </StyledText>
     <StyledText size='base'>

@@ -2,45 +2,57 @@
 
 exports[`Social component render Social as expected 1`] = `
 <div
-  className="sc-bwzfXH bfWiEF"
+  className="sc-bwzfXH hweCyD"
+  width="full"
 >
   <p
-    className="sc-bdVaJa dQZhmm"
-    color="#3A7CA5"
+    className="sc-bdVaJa AmpcB"
+    color="#FF595E"
     size="large"
   >
     Social Stuff
   </p>
-  <a
-    href="https://github.com/davidc94"
-    target="_blank"
-  >
-    <div
-      className="sc-bwzfXH jxXnAb"
-      style={
-        Object {
-          "margin": "8px",
-        }
+  <div
+    className="sc-bwzfXH cvQdJg"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "justifyContent": "center",
       }
-    >
-      <img
-        className="sc-htpNat daoksz"
-        src=""
-      />
-    </div>
-  </a>
-  <a
-    href="https://www.linkedin.com/in/davidchellapah/"
-    target="_blank"
+    }
   >
-    <div
-      className="sc-bwzfXH jxXnAb"
+    <a
+      href="https://github.com/davidc94"
+      target="_blank"
     >
-      <img
-        className="sc-htpNat daoksz"
-        src=""
-      />
-    </div>
-  </a>
+      <div
+        className="sc-bwzfXH lfTWUW"
+        style={
+          Object {
+            "margin": "8px",
+          }
+        }
+      >
+        <img
+          className="sc-htpNat daoksz"
+          src=""
+        />
+      </div>
+    </a>
+    <a
+      href="https://www.linkedin.com/in/davidchellapah/"
+      target="_blank"
+    >
+      <div
+        className="sc-bwzfXH lfTWUW"
+      >
+        <img
+          className="sc-htpNat daoksz"
+          src=""
+        />
+      </div>
+    </a>
+  </div>
 </div>
 `;
