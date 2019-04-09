@@ -5,7 +5,7 @@ import StyledDiv from '../../atoms/div';
 
 const Gallery = (props) => (
   <StyledDiv width='full' >
-    <StyledText size='large' color={Colors.accent}>
+    <StyledText size='large' color={Colors.charcoal}>
       Gallery
     </StyledText>
     <StyledText>

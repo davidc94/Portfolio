@@ -74,8 +74,8 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <p
-      className="sc-htpNat aVGNT"
-      color="#FF595E"
+      className="sc-htpNat jpTvdj"
+      color="#2B303A"
       size="large"
     >
       About Me
@@ -135,8 +135,8 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <p
-      className="sc-htpNat aVGNT"
-      color="#FF595E"
+      className="sc-htpNat jpTvdj"
+      color="#2B303A"
       size="large"
     >
       Gallery
@@ -152,8 +152,8 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <p
-      className="sc-htpNat aVGNT"
-      color="#FF595E"
+      className="sc-htpNat jpTvdj"
+      color="#2B303A"
       size="large"
     >
       Social Stuff

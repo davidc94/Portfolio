@@ -6,7 +6,7 @@ import StyledSocialButton from '../../molecules/socialbutton';
 
 const Social = (props) => (
   <StyledDiv width='full' >
-    <StyledText size='large' color={Colors.accent}>
+    <StyledText size='large' color={Colors.charcoal}>
       Social Stuff
     </StyledText>
     <StyledDiv style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>

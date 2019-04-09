@@ -6,8 +6,8 @@ exports[`Gallery component render Gallery as expected 1`] = `
   width="full"
 >
   <p
-    className="sc-bdVaJa AmpcB"
-    color="#FF595E"
+    className="sc-bdVaJa iLKJWs"
+    color="#2B303A"
     size="large"
   >
     Gallery
