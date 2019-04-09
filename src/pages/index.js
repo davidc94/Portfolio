@@ -31,7 +31,6 @@ export default () => (
     <Header />
     <AboutMe />
     <Projects />
-    <Skills />
     <Gallery />
     <Social />
   </div>
