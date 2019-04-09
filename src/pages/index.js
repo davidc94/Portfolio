@@ -11,7 +11,7 @@ import Social from '../components/organisms/social';
 const GlobalStyle = createGlobalStyle`
   body {
     margin: 0 auto;
-    max-width: 1080px;
+    /* max-width: 1080px; */
   }
   html {
     background-color: ${Colors.lightGrey};
