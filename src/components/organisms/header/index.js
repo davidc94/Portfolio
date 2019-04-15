@@ -15,7 +15,6 @@ const Header = (props) => (
         Chellapah
       </StyledHeader>
     </StyledDiv>
-
     <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2 }} >
       <StyledDiv backgroundColor={Colors.blue} >
         <StyledHeader size='base' color={Colors.lightGrey}>
