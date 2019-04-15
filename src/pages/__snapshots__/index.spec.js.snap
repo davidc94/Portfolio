@@ -286,20 +286,89 @@ exports[`Index renders as expected 1`] = `
   </div>
   <div
     className="sc-bwzfXH hweCyD"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "flex-start",
+      }
+    }
     width="full"
   >
-    <p
-      className="sc-htpNat jpTvdj"
-      color="#2B303A"
-      size="large"
+    <div
+      className="sc-bwzfXH hweCyD"
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+        }
+      }
+      width="full"
     >
-      Gallery
-    </p>
-    <p
-      className="sc-htpNat dmdaKe"
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 5,
+          }
+        }
+      >
+        <p
+          className="sc-htpNat jpTvdj"
+          color="#2B303A"
+          size="large"
+        >
+          Gallery
+        </p>
+      </div>
+    </div>
+    <div
+      className="sc-bwzfXH hweCyD"
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+        }
+      }
+      width="full"
     >
-      Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
-    </p>
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 200,
+            "flexDirection": "column",
+          }
+        }
+      >
+        <p
+          className="sc-htpNat dmdaKe"
+        >
+          Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
+        </p>
+      </div>
+    </div>
   </div>
   <div
     className="sc-bwzfXH hweCyD"
