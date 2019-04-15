@@ -17,7 +17,15 @@ exports[`Header component render Header as expected 1`] = `
     style={
       Object {
         "flex": 1,
-        "paddingLeft": "16px",
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH iewMrH"
+    style={
+      Object {
+        "flex": 2,
+        "padding": "0px 16px",
       }
     }
   >
@@ -40,7 +48,7 @@ exports[`Header component render Header as expected 1`] = `
     className="sc-bwzfXH iewMrH"
     style={
       Object {
-        "flex": 1,
+        "flex": 2,
       }
     }
   >
@@ -58,5 +66,13 @@ exports[`Header component render Header as expected 1`] = `
       </h1>
     </div>
   </div>
+  <div
+    className="sc-bwzfXH iewMrH"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  />
 </div>
 `;
