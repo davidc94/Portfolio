@@ -37,7 +37,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
       className="sc-bwzfXH cvQdJg"
       style={
         Object {
-          "flex": 5,
+          "flex": 20,
         }
       }
     >

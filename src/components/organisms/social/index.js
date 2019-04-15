@@ -5,10 +5,15 @@ import StyledDiv from '../../atoms/div';
 import StyledSocialButton from '../../molecules/socialbutton';
 
 const Social = (props) => (
-  <StyledDiv width='full' >
-    <StyledText size='large' color={Colors.charcoal}>
-      Social Stuff
-    </StyledText>
+  <StyledDiv width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start', flexDirection: 'column' }}>
+    <StyledDiv width='full' style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start' }}>
+      <StyledDiv style={{ flex: 1 }} />
+      <StyledDiv style={{ flex: 20 }}>
+        <StyledText size='large' color={Colors.charcoal}>
+        Social Stuff
+      </StyledText>
+      </StyledDiv>
+    </StyledDiv>
     <StyledDiv style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
       <StyledSocialButton social='github' style={{ margin: '8px' }} />
       <StyledSocialButton social='linkedin' />

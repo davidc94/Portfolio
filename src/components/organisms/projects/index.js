@@ -8,7 +8,7 @@ const Projects = (props) => (
   <StyledDiv backgroundColor={Colors.blue} width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start', flexDirection: 'column' }}>
     <StyledDiv width='full' backgroundColor={Colors.blue} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start' }}>
       <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
-      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 5 }}>
+      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 20 }}>
         <StyledText size='large' color={Colors.lightBlue}>
           Projects
         </StyledText>

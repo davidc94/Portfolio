@@ -37,7 +37,7 @@ exports[`Projects component render Projects as expected 1`] = `
       className="sc-bwzfXH iewMrH"
       style={
         Object {
-          "flex": 5,
+          "flex": 20,
         }
       }
     >

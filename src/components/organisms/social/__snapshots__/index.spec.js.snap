@@ -3,15 +3,53 @@
 exports[`Social component render Social as expected 1`] = `
 <div
   className="sc-bwzfXH hweCyD"
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "flex-start",
+    }
+  }
   width="full"
 >
-  <p
-    className="sc-bdVaJa iLKJWs"
-    color="#2B303A"
-    size="large"
+  <div
+    className="sc-bwzfXH hweCyD"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+      }
+    }
+    width="full"
   >
-    Social Stuff
-  </p>
+    <div
+      className="sc-bwzfXH cvQdJg"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
+    <div
+      className="sc-bwzfXH cvQdJg"
+      style={
+        Object {
+          "flex": 20,
+        }
+      }
+    >
+      <p
+        className="sc-bdVaJa iLKJWs"
+        color="#2B303A"
+        size="large"
+      >
+        Social Stuff
+      </p>
+    </div>
+  </div>
   <div
     className="sc-bwzfXH cvQdJg"
     style={
