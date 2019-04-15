@@ -3,39 +3,108 @@
 exports[`Projects component render Projects as expected 1`] = `
 <div
   className="sc-bwzfXH bejfXd"
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "flex-start",
+    }
+  }
   width="full"
 >
-  <p
-    className="sc-bdVaJa foxOvY"
-    color="#A8DADC"
-    size="large"
-  >
-    Projects
-  </p>
-  <p
-    className="sc-bdVaJa fSWxyT"
-    color="#EEE5E9"
-    size="base"
-  >
-    Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
-  </p>
   <div
-    className="sc-bwzfXH hycTDa"
+    className="sc-bwzfXH bejfXd"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+      }
+    }
+    width="full"
   >
-    <li
-      className="sc-htpNat jDCxMu"
-      color="#EEE5E9"
-      size="base"
+    <div
+      className="sc-bwzfXH iewMrH"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
+    <div
+      className="sc-bwzfXH iewMrH"
+      style={
+        Object {
+          "flex": 5,
+        }
+      }
     >
-      This website
-    </li>
-    <li
-      className="sc-htpNat jDCxMu"
-      color="#EEE5E9"
-      size="base"
+      <p
+        className="sc-bdVaJa foxOvY"
+        color="#A8DADC"
+        size="large"
+      >
+        Projects
+      </p>
+    </div>
+  </div>
+  <div
+    className="sc-bwzfXH bejfXd"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+      }
+    }
+    width="full"
+  >
+    <div
+      className="sc-bwzfXH iewMrH"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
+    <div
+      className="sc-bwzfXH iewMrH"
+      style={
+        Object {
+          "flex": 200,
+          "flexDirection": "column",
+        }
+      }
     >
-      Smart Home App (Uni dissertation)
-    </li>
+      <p
+        className="sc-bdVaJa fSWxyT"
+        color="#EEE5E9"
+        size="base"
+      >
+        Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
+      </p>
+      <div
+        className="sc-bwzfXH hycTDa"
+      >
+        <li
+          className="sc-htpNat jDCxMu"
+          color="#EEE5E9"
+          size="base"
+        >
+          This website
+        </li>
+        <li
+          className="sc-htpNat jDCxMu"
+          color="#EEE5E9"
+          size="base"
+        >
+          Smart Home App (Uni dissertation)
+        </li>
+      </div>
+    </div>
   </div>
 </div>
 `;

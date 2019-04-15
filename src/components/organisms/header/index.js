@@ -5,9 +5,9 @@ import StyledHeader from '../../atoms/header';
 import StyledDiv from '../../atoms/div';
 
 const Header = (props) => (
-  <StyledDiv backgroundColor={Colors.blue} width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start' }} >
+  <StyledDiv backgroundColor={Colors.blue} width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start' }}>
     <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
-    <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2, padding: '0px 16px' }} >
+    <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2, padding: '0px 16px' }}>
       <StyledHeader size='huge' color={Colors.lightBlue}>
         David
       </StyledHeader>
@@ -15,7 +15,7 @@ const Header = (props) => (
         Chellapah
       </StyledHeader>
     </StyledDiv>
-    <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2 }} >
+    <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2 }}>
       <StyledDiv backgroundColor={Colors.blue} >
         <StyledHeader size='base' color={Colors.lightGrey}>
           <Typing loop>
