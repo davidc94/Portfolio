@@ -8,15 +8,16 @@ const Projects = (props) => (
   <StyledDiv backgroundColor={Colors.blue} width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start', flexDirection: 'column' }}>
     <StyledDiv width='full' backgroundColor={Colors.blue} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start' }}>
       <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
-      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 20 }}>
+      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2 }}>
         <StyledText size='large' color={Colors.lightBlue}>
           Projects
         </StyledText>
       </StyledDiv>
+      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
     </StyledDiv>
     <StyledDiv width='full' backgroundColor={Colors.blue} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start' }}>
-      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
-      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 200, flexDirection: 'column' }}>
+      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 5 }} />
+      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 20, flexDirection: 'column' }}>
         <StyledText size='base' color={Colors.lightGrey}>
           Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
         </StyledText>
@@ -29,6 +30,7 @@ const Projects = (props) => (
           </StyledListItem>
         </StyledDiv>
       </StyledDiv>
+      <StyledDiv backgroundColor={Colors.blue} style={{ flex: 5 }} />
     </StyledDiv>
   </StyledDiv>
 )
