@@ -37,7 +37,7 @@ exports[`Social component render Social as expected 1`] = `
       className="sc-bwzfXH cvQdJg"
       style={
         Object {
-          "flex": 20,
+          "flex": 2,
         }
       }
     >
@@ -49,6 +49,14 @@ exports[`Social component render Social as expected 1`] = `
         Social Stuff
       </p>
     </div>
+    <div
+      className="sc-bwzfXH cvQdJg"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
   </div>
   <div
     className="sc-bwzfXH cvQdJg"

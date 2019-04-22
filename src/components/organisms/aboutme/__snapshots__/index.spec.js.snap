@@ -37,7 +37,7 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
       className="sc-bwzfXH cvQdJg"
       style={
         Object {
-          "flex": 20,
+          "flex": 2,
         }
       }
     >
@@ -49,6 +49,14 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
         About Me
       </p>
     </div>
+    <div
+      className="sc-bwzfXH cvQdJg"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
   </div>
   <div
     className="sc-bwzfXH hweCyD"
@@ -58,6 +66,7 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
         "display": "flex",
         "flexDirection": "row",
         "justifyContent": "flex-start",
+        "maxWidth": "1080px",
       }
     }
     width="full"
@@ -74,7 +83,7 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
       className="sc-bwzfXH cvQdJg"
       style={
         Object {
-          "flex": 200,
+          "flex": 4,
           "flexDirection": "column",
         }
       }
@@ -92,6 +101,14 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
         I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
       </p>
     </div>
+    <div
+      className="sc-bwzfXH cvQdJg"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
   </div>
 </div>
 `;

@@ -14,9 +14,9 @@ const AboutMe = (props) => (
       </StyledDiv>
       <StyledDiv style={{ flex: 1 }} />
     </StyledDiv>
-    <StyledDiv width='full' style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start' }}>
-      <StyledDiv style={{ flex: 5 }} />
-      <StyledDiv style={{ flex: 20, flexDirection: 'column' }}>
+    <StyledDiv width='full' style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start', maxWidth: '1080px' }}>
+      <StyledDiv style={{ flex: 1 }} />
+      <StyledDiv style={{ flex: 4, flexDirection: 'column' }}>
         <StyledText size='base'>
           Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University 
           in 2017 with a Bachelors degree in Computer Science.
@@ -26,7 +26,7 @@ const AboutMe = (props) => (
           PCs when I can (building PCs is expensive ☹️)
         </StyledText>
       </StyledDiv>
-      <StyledDiv style={{ flex: 5 }} />
+      <StyledDiv style={{ flex: 1 }} />
     </StyledDiv>
   </StyledDiv>
 );

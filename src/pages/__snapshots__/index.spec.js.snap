@@ -121,7 +121,7 @@ exports[`Index renders as expected 1`] = `
         className="sc-bwzfXH cvQdJg"
         style={
           Object {
-            "flex": 20,
+            "flex": 2,
           }
         }
       >
@@ -133,6 +133,14 @@ exports[`Index renders as expected 1`] = `
           About Me
         </p>
       </div>
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
     </div>
     <div
       className="sc-bwzfXH hweCyD"
@@ -142,6 +150,7 @@ exports[`Index renders as expected 1`] = `
           "display": "flex",
           "flexDirection": "row",
           "justifyContent": "flex-start",
+          "maxWidth": "1080px",
         }
       }
       width="full"
@@ -158,7 +167,7 @@ exports[`Index renders as expected 1`] = `
         className="sc-bwzfXH cvQdJg"
         style={
           Object {
-            "flex": 200,
+            "flex": 4,
             "flexDirection": "column",
           }
         }
@@ -176,6 +185,14 @@ exports[`Index renders as expected 1`] = `
           I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
         </p>
       </div>
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
     </div>
   </div>
   <div
@@ -214,7 +231,7 @@ exports[`Index renders as expected 1`] = `
         className="sc-bwzfXH iewMrH"
         style={
           Object {
-            "flex": 20,
+            "flex": 2,
           }
         }
       >
@@ -226,6 +243,14 @@ exports[`Index renders as expected 1`] = `
           Projects
         </p>
       </div>
+      <div
+        className="sc-bwzfXH iewMrH"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
     </div>
     <div
       className="sc-bwzfXH bejfXd"
@@ -235,6 +260,7 @@ exports[`Index renders as expected 1`] = `
           "display": "flex",
           "flexDirection": "row",
           "justifyContent": "flex-start",
+          "maxWidth": "1080px",
         }
       }
       width="full"
@@ -251,7 +277,7 @@ exports[`Index renders as expected 1`] = `
         className="sc-bwzfXH iewMrH"
         style={
           Object {
-            "flex": 200,
+            "flex": 4,
             "flexDirection": "column",
           }
         }
@@ -282,6 +308,14 @@ exports[`Index renders as expected 1`] = `
           </li>
         </div>
       </div>
+      <div
+        className="sc-bwzfXH iewMrH"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
     </div>
   </div>
   <div
@@ -320,7 +354,7 @@ exports[`Index renders as expected 1`] = `
         className="sc-bwzfXH cvQdJg"
         style={
           Object {
-            "flex": 20,
+            "flex": 2,
           }
         }
       >
@@ -332,6 +366,14 @@ exports[`Index renders as expected 1`] = `
           Gallery
         </p>
       </div>
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
     </div>
     <div
       className="sc-bwzfXH hweCyD"
@@ -341,6 +383,7 @@ exports[`Index renders as expected 1`] = `
           "display": "flex",
           "flexDirection": "row",
           "justifyContent": "flex-start",
+          "maxWidth": "1080px",
         }
       }
       width="full"
@@ -349,7 +392,7 @@ exports[`Index renders as expected 1`] = `
         className="sc-bwzfXH cvQdJg"
         style={
           Object {
-            "flex": 1,
+            "flex": 5,
           }
         }
       />
@@ -357,7 +400,7 @@ exports[`Index renders as expected 1`] = `
         className="sc-bwzfXH cvQdJg"
         style={
           Object {
-            "flex": 200,
+            "flex": 20,
             "flexDirection": "column",
           }
         }
@@ -368,6 +411,14 @@ exports[`Index renders as expected 1`] = `
           Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
         </p>
       </div>
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 5,
+          }
+        }
+      />
     </div>
   </div>
   <div
@@ -406,7 +457,7 @@ exports[`Index renders as expected 1`] = `
         className="sc-bwzfXH cvQdJg"
         style={
           Object {
-            "flex": 20,
+            "flex": 2,
           }
         }
       >
@@ -418,6 +469,14 @@ exports[`Index renders as expected 1`] = `
           Social Stuff
         </p>
       </div>
+      <div
+        className="sc-bwzfXH cvQdJg"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
     </div>
     <div
       className="sc-bwzfXH cvQdJg"

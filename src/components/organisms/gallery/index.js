@@ -14,7 +14,7 @@ const Gallery = (props) => (
       </StyledDiv>
       <StyledDiv style={{ flex: 1 }} />
     </StyledDiv>
-    <StyledDiv width='full' style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start' }}>
+    <StyledDiv width='full' style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start', maxWidth: '1080px' }}>
       <StyledDiv style={{ flex: 5 }} />
       <StyledDiv style={{ flex: 20, flexDirection: 'column' }}>
         <StyledText>

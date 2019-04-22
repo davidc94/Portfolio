@@ -37,7 +37,7 @@ exports[`Projects component render Projects as expected 1`] = `
       className="sc-bwzfXH iewMrH"
       style={
         Object {
-          "flex": 20,
+          "flex": 2,
         }
       }
     >
@@ -49,6 +49,14 @@ exports[`Projects component render Projects as expected 1`] = `
         Projects
       </p>
     </div>
+    <div
+      className="sc-bwzfXH iewMrH"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
   </div>
   <div
     className="sc-bwzfXH bejfXd"
@@ -58,6 +66,7 @@ exports[`Projects component render Projects as expected 1`] = `
         "display": "flex",
         "flexDirection": "row",
         "justifyContent": "flex-start",
+        "maxWidth": "1080px",
       }
     }
     width="full"
@@ -74,7 +83,7 @@ exports[`Projects component render Projects as expected 1`] = `
       className="sc-bwzfXH iewMrH"
       style={
         Object {
-          "flex": 200,
+          "flex": 4,
           "flexDirection": "column",
         }
       }
@@ -105,6 +114,14 @@ exports[`Projects component render Projects as expected 1`] = `
         </li>
       </div>
     </div>
+    <div
+      className="sc-bwzfXH iewMrH"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
   </div>
 </div>
 `;

@@ -37,7 +37,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
       className="sc-bwzfXH cvQdJg"
       style={
         Object {
-          "flex": 20,
+          "flex": 2,
         }
       }
     >
@@ -49,6 +49,14 @@ exports[`Gallery component render Gallery as expected 1`] = `
         Gallery
       </p>
     </div>
+    <div
+      className="sc-bwzfXH cvQdJg"
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
   </div>
   <div
     className="sc-bwzfXH hweCyD"
@@ -58,6 +66,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
         "display": "flex",
         "flexDirection": "row",
         "justifyContent": "flex-start",
+        "maxWidth": "1080px",
       }
     }
     width="full"
@@ -66,7 +75,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
       className="sc-bwzfXH cvQdJg"
       style={
         Object {
-          "flex": 1,
+          "flex": 5,
         }
       }
     />
@@ -74,7 +83,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
       className="sc-bwzfXH cvQdJg"
       style={
         Object {
-          "flex": 200,
+          "flex": 20,
           "flexDirection": "column",
         }
       }
@@ -85,6 +94,14 @@ exports[`Gallery component render Gallery as expected 1`] = `
         Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
       </p>
     </div>
+    <div
+      className="sc-bwzfXH cvQdJg"
+      style={
+        Object {
+          "flex": 5,
+        }
+      }
+    />
   </div>
 </div>
 `;
