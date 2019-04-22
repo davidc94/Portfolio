@@ -2,19 +2,20 @@
 
 exports[`Social component render Social as expected 1`] = `
 <div
-  className="sc-bwzfXH hweCyD"
+  className="sc-htpNat bEbVeu"
   style={
     Object {
       "alignItems": "center",
       "display": "flex",
       "flexDirection": "column",
       "justifyContent": "flex-start",
+      "padding": "48px 0px",
     }
   }
   width="full"
 >
   <div
-    className="sc-bwzfXH hweCyD"
+    className="sc-htpNat bEbVeu"
     style={
       Object {
         "alignItems": "center",
@@ -26,7 +27,7 @@ exports[`Social component render Social as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 1,
@@ -34,23 +35,23 @@ exports[`Social component render Social as expected 1`] = `
       }
     />
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 2,
         }
       }
     >
-      <p
-        className="sc-bdVaJa iLKJWs"
+      <h1
+        className="sc-bwzfXH dtrOTQ"
         color="#2B303A"
         size="large"
       >
         Social Stuff
-      </p>
+      </h1>
     </div>
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 1,
@@ -59,7 +60,7 @@ exports[`Social component render Social as expected 1`] = `
     />
   </div>
   <div
-    className="sc-bwzfXH cvQdJg"
+    className="sc-htpNat kNnnXB"
     style={
       Object {
         "alignItems": "center",
@@ -73,7 +74,7 @@ exports[`Social component render Social as expected 1`] = `
       target="_blank"
     >
       <div
-        className="sc-bwzfXH lfTWUW"
+        className="sc-htpNat iHluLm"
         style={
           Object {
             "margin": "8px",
@@ -81,7 +82,7 @@ exports[`Social component render Social as expected 1`] = `
         }
       >
         <img
-          className="sc-htpNat daoksz"
+          className="sc-bxivhb jfnfjb"
           src=""
         />
       </div>
@@ -91,10 +92,10 @@ exports[`Social component render Social as expected 1`] = `
       target="_blank"
     >
       <div
-        className="sc-bwzfXH lfTWUW"
+        className="sc-htpNat iHluLm"
       >
         <img
-          className="sc-htpNat daoksz"
+          className="sc-bxivhb jfnfjb"
           src=""
         />
       </div>

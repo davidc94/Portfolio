@@ -2,19 +2,20 @@
 
 exports[`AboutMe component render AboutMe as expected 1`] = `
 <div
-  className="sc-bwzfXH hweCyD"
+  className="sc-htpNat bEbVeu"
   style={
     Object {
       "alignItems": "center",
       "display": "flex",
       "flexDirection": "column",
       "justifyContent": "flex-start",
+      "padding": "48px 0px",
     }
   }
   width="full"
 >
   <div
-    className="sc-bwzfXH hweCyD"
+    className="sc-htpNat bEbVeu"
     style={
       Object {
         "alignItems": "center",
@@ -26,7 +27,7 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 1,
@@ -34,23 +35,23 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
       }
     />
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 2,
         }
       }
     >
-      <p
-        className="sc-bdVaJa iLKJWs"
+      <h1
+        className="sc-bwzfXH dtrOTQ"
         color="#2B303A"
         size="large"
       >
         About Me
-      </p>
+      </h1>
     </div>
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 1,
@@ -59,7 +60,7 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
     />
   </div>
   <div
-    className="sc-bwzfXH hweCyD"
+    className="sc-htpNat bEbVeu"
     style={
       Object {
         "alignItems": "center",
@@ -72,7 +73,7 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 1,
@@ -80,7 +81,7 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
       }
     />
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 4,
@@ -89,20 +90,20 @@ exports[`AboutMe component render AboutMe as expected 1`] = `
       }
     >
       <p
-        className="sc-bdVaJa kRyTSY"
-        size="base"
+        className="sc-bdVaJa iKrFbH"
+        size="large"
       >
         Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University in 2017 with a Bachelors degree in Computer Science.
       </p>
       <p
-        className="sc-bdVaJa kRyTSY"
-        size="base"
+        className="sc-bdVaJa iKrFbH"
+        size="large"
       >
         I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
       </p>
     </div>
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 1,

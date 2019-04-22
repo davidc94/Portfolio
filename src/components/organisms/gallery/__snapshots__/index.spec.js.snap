@@ -2,19 +2,20 @@
 
 exports[`Gallery component render Gallery as expected 1`] = `
 <div
-  className="sc-bwzfXH hweCyD"
+  className="sc-htpNat bEbVeu"
   style={
     Object {
       "alignItems": "center",
       "display": "flex",
       "flexDirection": "column",
       "justifyContent": "flex-start",
+      "padding": "48px 0px",
     }
   }
   width="full"
 >
   <div
-    className="sc-bwzfXH hweCyD"
+    className="sc-htpNat bEbVeu"
     style={
       Object {
         "alignItems": "center",
@@ -26,7 +27,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 1,
@@ -34,23 +35,23 @@ exports[`Gallery component render Gallery as expected 1`] = `
       }
     />
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 2,
         }
       }
     >
-      <p
-        className="sc-bdVaJa iLKJWs"
+      <h1
+        className="sc-bwzfXH dtrOTQ"
         color="#2B303A"
         size="large"
       >
         Gallery
-      </p>
+      </h1>
     </div>
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 1,
@@ -59,7 +60,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
     />
   </div>
   <div
-    className="sc-bwzfXH hweCyD"
+    className="sc-htpNat bEbVeu"
     style={
       Object {
         "alignItems": "center",
@@ -72,7 +73,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 5,
@@ -80,7 +81,7 @@ exports[`Gallery component render Gallery as expected 1`] = `
       }
     />
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 20,
@@ -89,13 +90,14 @@ exports[`Gallery component render Gallery as expected 1`] = `
       }
     >
       <p
-        className="sc-bdVaJa kRyTSY"
+        className="sc-bdVaJa iKrFbH"
+        size="large"
       >
         Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
       </p>
     </div>
     <div
-      className="sc-bwzfXH cvQdJg"
+      className="sc-htpNat kNnnXB"
       style={
         Object {
           "flex": 5,

@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 import { createGlobalStyle } from 'styled-components';
 import Colors from '../utils/colors';
 import Header from '../components/organisms/header';
@@ -22,6 +22,7 @@ export default () => (
   <div
     style={{ 
       display: 'flex',
+      flexDirection: 'column',
       alignItems: 'center',
       flexDirection: 'column',
       justifyContent: 'center',

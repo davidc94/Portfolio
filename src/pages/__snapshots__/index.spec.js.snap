@@ -22,6 +22,7 @@ exports[`Index renders as expected 1`] = `
         "alignItems": "center",
         "display": "flex",
         "justifyContent": "flex-start",
+        "padding": "48px 0px",
       }
     }
     width="full"
@@ -95,6 +96,7 @@ exports[`Index renders as expected 1`] = `
         "display": "flex",
         "flexDirection": "column",
         "justifyContent": "flex-start",
+        "padding": "48px 0px",
       }
     }
     width="full"
@@ -127,13 +129,13 @@ exports[`Index renders as expected 1`] = `
           }
         }
       >
-        <p
-          className="sc-bxivhb hCxYHL"
+        <h1
+          className="sc-bdVaJa dEEqkm"
           color="#2B303A"
           size="large"
         >
           About Me
-        </p>
+        </h1>
       </div>
       <div
         className="sc-htpNat kNnnXB"
@@ -175,14 +177,14 @@ exports[`Index renders as expected 1`] = `
         }
       >
         <p
-          className="sc-bxivhb hKSqJU"
-          size="base"
+          className="sc-bxivhb iHgCkS"
+          size="large"
         >
           Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University in 2017 with a Bachelors degree in Computer Science.
         </p>
         <p
-          className="sc-bxivhb hKSqJU"
-          size="base"
+          className="sc-bxivhb iHgCkS"
+          size="large"
         >
           I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
         </p>
@@ -205,6 +207,7 @@ exports[`Index renders as expected 1`] = `
         "display": "flex",
         "flexDirection": "column",
         "justifyContent": "flex-start",
+        "padding": "48px 0px",
       }
     }
     width="full"
@@ -237,13 +240,13 @@ exports[`Index renders as expected 1`] = `
           }
         }
       >
-        <p
-          className="sc-bxivhb ZqyuH"
+        <h1
+          className="sc-bdVaJa ksuAVZ"
           color="#A8DADC"
           size="large"
         >
           Projects
-        </p>
+        </h1>
       </div>
       <div
         className="sc-htpNat fslOQR"
@@ -285,9 +288,9 @@ exports[`Index renders as expected 1`] = `
         }
       >
         <p
-          className="sc-bxivhb gSawsr"
+          className="sc-bxivhb ihWrPY"
           color="#EEE5E9"
-          size="base"
+          size="large"
         >
           Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
         </p>
@@ -295,16 +298,16 @@ exports[`Index renders as expected 1`] = `
           className="sc-htpNat eUoRCQ"
         >
           <li
-            className="sc-ifAKCX jFQvvg"
+            className="sc-ifAKCX fzQhiQ"
             color="#EEE5E9"
-            size="base"
+            size="large"
           >
             This website
           </li>
           <li
-            className="sc-ifAKCX jFQvvg"
+            className="sc-ifAKCX fzQhiQ"
             color="#EEE5E9"
-            size="base"
+            size="large"
           >
             Smart Home App (Uni dissertation)
           </li>
@@ -328,6 +331,7 @@ exports[`Index renders as expected 1`] = `
         "display": "flex",
         "flexDirection": "column",
         "justifyContent": "flex-start",
+        "padding": "48px 0px",
       }
     }
     width="full"
@@ -360,13 +364,13 @@ exports[`Index renders as expected 1`] = `
           }
         }
       >
-        <p
-          className="sc-bxivhb hCxYHL"
+        <h1
+          className="sc-bdVaJa dEEqkm"
           color="#2B303A"
           size="large"
         >
           Gallery
-        </p>
+        </h1>
       </div>
       <div
         className="sc-htpNat kNnnXB"
@@ -408,7 +412,8 @@ exports[`Index renders as expected 1`] = `
         }
       >
         <p
-          className="sc-bxivhb hKSqJU"
+          className="sc-bxivhb iHgCkS"
+          size="large"
         >
           Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
         </p>
@@ -431,6 +436,7 @@ exports[`Index renders as expected 1`] = `
         "display": "flex",
         "flexDirection": "column",
         "justifyContent": "flex-start",
+        "padding": "48px 0px",
       }
     }
     width="full"
@@ -463,13 +469,13 @@ exports[`Index renders as expected 1`] = `
           }
         }
       >
-        <p
-          className="sc-bxivhb hCxYHL"
+        <h1
+          className="sc-bdVaJa dEEqkm"
           color="#2B303A"
           size="large"
         >
           Social Stuff
-        </p>
+        </h1>
       </div>
       <div
         className="sc-htpNat kNnnXB"

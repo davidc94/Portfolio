@@ -8,6 +8,7 @@ exports[`Header component render Header as expected 1`] = `
       "alignItems": "center",
       "display": "flex",
       "justifyContent": "flex-start",
+      "padding": "48px 0px",
     }
   }
   width="full"

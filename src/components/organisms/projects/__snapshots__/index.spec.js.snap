@@ -2,19 +2,20 @@
 
 exports[`Projects component render Projects as expected 1`] = `
 <div
-  className="sc-bwzfXH bejfXd"
+  className="sc-htpNat iPErbm"
   style={
     Object {
       "alignItems": "center",
       "display": "flex",
       "flexDirection": "column",
       "justifyContent": "flex-start",
+      "padding": "48px 0px",
     }
   }
   width="full"
 >
   <div
-    className="sc-bwzfXH bejfXd"
+    className="sc-htpNat iPErbm"
     style={
       Object {
         "alignItems": "center",
@@ -26,7 +27,7 @@ exports[`Projects component render Projects as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-bwzfXH iewMrH"
+      className="sc-htpNat fslOQR"
       style={
         Object {
           "flex": 1,
@@ -34,23 +35,23 @@ exports[`Projects component render Projects as expected 1`] = `
       }
     />
     <div
-      className="sc-bwzfXH iewMrH"
+      className="sc-htpNat fslOQR"
       style={
         Object {
           "flex": 2,
         }
       }
     >
-      <p
-        className="sc-bdVaJa foxOvY"
+      <h1
+        className="sc-bwzfXH bHcPPO"
         color="#A8DADC"
         size="large"
       >
         Projects
-      </p>
+      </h1>
     </div>
     <div
-      className="sc-bwzfXH iewMrH"
+      className="sc-htpNat fslOQR"
       style={
         Object {
           "flex": 1,
@@ -59,7 +60,7 @@ exports[`Projects component render Projects as expected 1`] = `
     />
   </div>
   <div
-    className="sc-bwzfXH bejfXd"
+    className="sc-htpNat iPErbm"
     style={
       Object {
         "alignItems": "center",
@@ -72,7 +73,7 @@ exports[`Projects component render Projects as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-bwzfXH iewMrH"
+      className="sc-htpNat fslOQR"
       style={
         Object {
           "flex": 1,
@@ -80,7 +81,7 @@ exports[`Projects component render Projects as expected 1`] = `
       }
     />
     <div
-      className="sc-bwzfXH iewMrH"
+      className="sc-htpNat fslOQR"
       style={
         Object {
           "flex": 4,
@@ -89,33 +90,33 @@ exports[`Projects component render Projects as expected 1`] = `
       }
     >
       <p
-        className="sc-bdVaJa fSWxyT"
+        className="sc-bdVaJa kAfGma"
         color="#EEE5E9"
-        size="base"
+        size="large"
       >
         Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
       </p>
       <div
-        className="sc-bwzfXH hycTDa"
+        className="sc-htpNat eUoRCQ"
       >
         <li
-          className="sc-htpNat jDCxMu"
+          className="sc-bxivhb cgpsMn"
           color="#EEE5E9"
-          size="base"
+          size="large"
         >
           This website
         </li>
         <li
-          className="sc-htpNat jDCxMu"
+          className="sc-bxivhb cgpsMn"
           color="#EEE5E9"
-          size="base"
+          size="large"
         >
           Smart Home App (Uni dissertation)
         </li>
       </div>
     </div>
     <div
-      className="sc-bwzfXH iewMrH"
+      className="sc-htpNat fslOQR"
       style={
         Object {
           "flex": 1,

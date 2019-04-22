@@ -6,7 +6,7 @@ import StyledSpan from '../../atoms/span';
 import StyledDiv from '../../atoms/div';
 
 const Header = (props) => (
-  <StyledDiv backgroundColor={Colors.blue} width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start' }}>
+  <StyledDiv backgroundColor={Colors.blue} width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start', padding: '48px 0px' }}>
     <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
     <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2, padding: '0px 16px' }}>
       <StyledHeader size='huge' color={Colors.lightBlue}>
