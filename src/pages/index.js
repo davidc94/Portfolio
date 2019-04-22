@@ -18,7 +18,7 @@ const GlobalStyle = createGlobalStyle`
   }
 `
 
-export default () => (    
+export default () => (
   <div
     style={{ 
       display: 'flex',
@@ -27,6 +27,7 @@ export default () => (
       justifyContent: 'center',
     }}
   >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <GlobalStyle />
     <Header />
     <AboutMe />

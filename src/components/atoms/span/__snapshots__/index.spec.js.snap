@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledSpan component render StyledSpan with a different background color 1`] = `
+<span
+  className="sc-bdVaJa cvQqPW"
+>
+  nice background color
+</span>
+`;
+
+exports[`StyledSpan component render StyledSpan with a different color 1`] = `
+<span
+  className="sc-bdVaJa jvdlUN"
+  color="#A8DADC"
+>
+  cool blue
+</span>
+`;
+
+exports[`StyledSpan component render StyledSpan with a different font size 1`] = `
+<span
+  className="sc-bdVaJa dzrLNz"
+  size="large"
+>
+  EXTRA BIG
+</span>
+`;
+
+exports[`StyledSpan component render default StyledSpan as expected 1`] = `
+<span
+  className="sc-bdVaJa iKEBZc"
+>
+  I have nothing to offer
+</span>
+`;

@@ -2,7 +2,7 @@
 
 exports[`Header component render Header as expected 1`] = `
 <div
-  className="sc-bwzfXH bejfXd"
+  className="sc-htpNat iPErbm"
   style={
     Object {
       "alignItems": "center",
@@ -13,7 +13,7 @@ exports[`Header component render Header as expected 1`] = `
   width="full"
 >
   <div
-    className="sc-bwzfXH iewMrH"
+    className="sc-htpNat fslOQR"
     style={
       Object {
         "flex": 1,
@@ -21,7 +21,7 @@ exports[`Header component render Header as expected 1`] = `
     }
   />
   <div
-    className="sc-bwzfXH iewMrH"
+    className="sc-htpNat fslOQR"
     style={
       Object {
         "flex": 2,
@@ -45,7 +45,7 @@ exports[`Header component render Header as expected 1`] = `
     </h1>
   </div>
   <div
-    className="sc-bwzfXH iewMrH"
+    className="sc-htpNat fslOQR"
     style={
       Object {
         "flex": 2,
@@ -53,21 +53,19 @@ exports[`Header component render Header as expected 1`] = `
     }
   >
     <div
-      className="sc-bwzfXH iewMrH"
+      className="sc-htpNat fslOQR"
     >
-      <h1
-        className="sc-bdVaJa jdHjnZ"
-        color="#EEE5E9"
-        size="base"
+      <div
+        className="sc-htpNat fslOQR"
       >
         <div
           className=""
         />
-      </h1>
+      </div>
     </div>
   </div>
   <div
-    className="sc-bwzfXH iewMrH"
+    className="sc-htpNat fslOQR"
     style={
       Object {
         "flex": 1,

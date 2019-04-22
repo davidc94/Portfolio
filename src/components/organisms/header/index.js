@@ -2,6 +2,7 @@ import React from 'react';
 import Typing from 'react-typing-animation';
 import Colors from '../../../utils/colors';
 import StyledHeader from '../../atoms/header';
+import StyledSpan from '../../atoms/span';
 import StyledDiv from '../../atoms/div';
 
 const Header = (props) => (
@@ -17,25 +18,25 @@ const Header = (props) => (
     </StyledDiv>
     <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2 }}>
       <StyledDiv backgroundColor={Colors.blue} >
-        <StyledHeader size='base' color={Colors.lightGrey}>
+        <StyledDiv backgroundColor={Colors.blue}>
           <Typing loop>
-            <span>
+            <StyledSpan backgroundColor={Colors.blue} size='base' color={Colors.lightGrey}>
               Hello and welcome to my website
-            </span>
+            </StyledSpan>
             <Typing.Delay ms={1000} />
             <Typing.Speed ms={10} />
             <Typing.Backspace count={37} />
             <Typing.Speed ms={50} />
-            <span>
+            <StyledSpan backgroundColor={Colors.blue} size='base' color={Colors.lightGrey}>
               I am a software developer from London
-            </span>
+            </StyledSpan>
             <Typing.Delay ms={1000} />
             <Typing.Speed ms={10} />
             <Typing.Backspace count={37} />
             <Typing.Speed ms={50} />
             <Typing.Delay ms={1000} />
           </Typing>
-        </StyledHeader>
+        </StyledDiv>
       </StyledDiv>    
     </StyledDiv>
     <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
