@@ -7,6 +7,7 @@ import Projects from '../components/organisms/projects';
 import Skills from '../components/organisms/skills';
 import Gallery from '../components/organisms/gallery';
 import Social from '../components/organisms/social';
+import Video from '../components/atoms/video';
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -30,6 +31,7 @@ export default () => (
   >
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <GlobalStyle />
+    <Video />
     <Header />
     <AboutMe />
     <Projects />
