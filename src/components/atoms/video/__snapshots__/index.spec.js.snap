@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledVideo component render default StyledVideo as expected 1`] = `
+<video
+  autoPlay={true}
+  className="sc-bdVaJa gDlMSY"
+  loop={true}
+  muted={true}
+  poster=""
+  preload="auto"
+>
+  <source
+    src=""
+    type="video/mp4"
+  />
+</video>
+`;
