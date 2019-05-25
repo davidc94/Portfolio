@@ -1,5 +1,4 @@
 import React from 'react';
-import Typing from 'react-typing-animation';
 import Colors from '../../../utils/colors';
 import StyledText from '../../atoms/text';
 import StyledDiv from '../../atoms/div';

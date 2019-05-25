@@ -2,7 +2,7 @@
 
 exports[`Social component render Social as expected 1`] = `
 <div
-  className="sc-htpNat dUGsjj"
+  className="sc-bwzfXH jtaQDR"
   style={
     Object {
       "alignItems": "center",
@@ -15,7 +15,7 @@ exports[`Social component render Social as expected 1`] = `
   width="full"
 >
   <div
-    className="sc-htpNat dUGsjj"
+    className="sc-bwzfXH jtaQDR"
     style={
       Object {
         "alignItems": "center",
@@ -27,7 +27,7 @@ exports[`Social component render Social as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-bwzfXH cAfgRt"
       style={
         Object {
           "flex": 1,
@@ -35,7 +35,7 @@ exports[`Social component render Social as expected 1`] = `
       }
     />
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-bwzfXH cAfgRt"
       style={
         Object {
           "flex": 2,
@@ -43,7 +43,7 @@ exports[`Social component render Social as expected 1`] = `
       }
     >
       <h1
-        className="sc-bwzfXH dtrOTQ"
+        className="sc-bdVaJa dEEqkm"
         color="#2B303A"
         size="large"
         style={
@@ -56,7 +56,7 @@ exports[`Social component render Social as expected 1`] = `
       </h1>
     </div>
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-bwzfXH cAfgRt"
       style={
         Object {
           "flex": 1,
@@ -65,7 +65,7 @@ exports[`Social component render Social as expected 1`] = `
     />
   </div>
   <div
-    className="sc-htpNat dUGsjj"
+    className="sc-bwzfXH jtaQDR"
     style={
       Object {
         "alignItems": "center",
@@ -76,7 +76,7 @@ exports[`Social component render Social as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-bwzfXH cAfgRt"
       style={
         Object {
           "flex": 8,
@@ -84,7 +84,7 @@ exports[`Social component render Social as expected 1`] = `
       }
     />
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-bwzfXH cAfgRt"
       style={
         Object {
           "flex": 2,
@@ -96,10 +96,10 @@ exports[`Social component render Social as expected 1`] = `
         target="_blank"
       >
         <div
-          className="sc-htpNat gPIfr"
+          className="sc-bwzfXH XKrqh"
         >
           <img
-            className="sc-bxivhb jfnfjb"
+            className="sc-htpNat daoksz"
             src=""
             style={
               Object {
@@ -111,7 +111,7 @@ exports[`Social component render Social as expected 1`] = `
       </a>
     </div>
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-bwzfXH cAfgRt"
       style={
         Object {
           "flex": 1,
@@ -119,7 +119,7 @@ exports[`Social component render Social as expected 1`] = `
       }
     />
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-bwzfXH cAfgRt"
       style={
         Object {
           "flex": 2,
@@ -131,10 +131,10 @@ exports[`Social component render Social as expected 1`] = `
         target="_blank"
       >
         <div
-          className="sc-htpNat gPIfr"
+          className="sc-bwzfXH XKrqh"
         >
           <img
-            className="sc-bxivhb jfnfjb"
+            className="sc-htpNat daoksz"
             src=""
             style={
               Object {
@@ -146,7 +146,7 @@ exports[`Social component render Social as expected 1`] = `
       </a>
     </div>
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-bwzfXH cAfgRt"
       style={
         Object {
           "flex": 8,

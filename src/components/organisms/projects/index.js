@@ -3,7 +3,6 @@ import Colors from '../../../utils/colors';
 import StyledText from '../../atoms/text';
 import StyledHeader from '../../atoms/header';
 import StyledDiv from '../../atoms/div';
-import StyledListItem from '../../atoms/list';
 import StyledProjectLink from '../../molecules/projectlink';
 
 const Projects = (props) => (

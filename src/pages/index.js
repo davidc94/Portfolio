@@ -1,13 +1,11 @@
 import React from 'react'
 import { createGlobalStyle } from 'styled-components';
 import Colors from '../utils/colors';
+import Video from '../components/atoms/video';
 import Header from '../components/organisms/header';
 import AboutMe from '../components/organisms/aboutme';
 import Projects from '../components/organisms/projects';
-import Skills from '../components/organisms/skills';
-import Gallery from '../components/organisms/gallery';
 import Social from '../components/organisms/social';
-import Video from '../components/atoms/video';
 
 const GlobalStyle = createGlobalStyle`
   body {

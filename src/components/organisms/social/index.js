@@ -1,6 +1,5 @@
 import React from 'react';
 import Colors from '../../../utils/colors';
-import StyledText from '../../atoms/text';
 import StyledHeader from '../../atoms/header';
 import StyledDiv from '../../atoms/div';
 import StyledSocialButton from '../../molecules/socialbutton';

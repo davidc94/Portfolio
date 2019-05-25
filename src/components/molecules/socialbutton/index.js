@@ -7,12 +7,12 @@ import colors from "../../../utils/colors";
 
 const socialLink = {
   linkedin: 'https://www.linkedin.com/in/davidchellapah/',
-  github: 'https://github.com/davidc94'
+  github: 'https://github.com/davidc94',
 }
 
 const socialImage = {
   linkedin: linkedinIcon,
-  github: githubIcon
+  github: githubIcon,
 }
 
 const SocialButton = (props) => (
