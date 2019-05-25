@@ -46,6 +46,11 @@ exports[`Projects component render Projects as expected 1`] = `
         className="sc-bwzfXH bHcPPO"
         color="#A8DADC"
         size="large"
+        style={
+          Object {
+            "marginBottom": "48px",
+          }
+        }
       >
         Projects
       </h1>

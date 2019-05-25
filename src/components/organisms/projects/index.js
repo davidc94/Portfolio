@@ -11,7 +11,7 @@ const Projects = (props) => (
     <StyledDiv width='full' backgroundColor={Colors.blue} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start' }}>
       <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
       <StyledDiv backgroundColor={Colors.blue} style={{ flex: 2 }}>
-        <StyledHeader size='large' color={Colors.lightBlue}>
+        <StyledHeader size='large' color={Colors.lightBlue} style={{ marginBottom: '48px' }}>
           Projects
         </StyledHeader>
       </StyledDiv>

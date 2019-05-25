@@ -9,7 +9,7 @@ const AboutMe = (props) => (
     <StyledDiv width='full' style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start' }}>
       <StyledDiv style={{ flex: 1 }} />
       <StyledDiv style={{ flex: 2 }}>
-        <StyledHeader size='large' color={Colors.charcoal}>
+        <StyledHeader size='large' color={Colors.charcoal} style={{ marginBottom: '48px' }}>
           About Me
         </StyledHeader>
       </StyledDiv>

@@ -46,6 +46,11 @@ exports[`Social component render Social as expected 1`] = `
         className="sc-bwzfXH dtrOTQ"
         color="#2B303A"
         size="large"
+        style={
+          Object {
+            "marginBottom": "48px",
+          }
+        }
       >
         Social Stuff
       </h1>
