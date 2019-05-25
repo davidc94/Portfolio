@@ -431,7 +431,7 @@ exports[`Index renders as expected 1`] = `
       />
     </div>
     <div
-      className="sc-htpNat kHdJfM"
+      className="sc-htpNat dUGsjj"
       style={
         Object {
           "alignItems": "center",
@@ -439,48 +439,86 @@ exports[`Index renders as expected 1`] = `
           "justifyContent": "center",
         }
       }
+      width="full"
     >
-      <a
-        href="https://github.com/davidc94"
-        target="_blank"
-      >
-        <div
-          className="sc-htpNat gPIfr"
-          style={
-            Object {
-              "margin": "8px",
-            }
+      <div
+        className="sc-htpNat kHdJfM"
+        style={
+          Object {
+            "flex": 8,
           }
-        >
-          <img
-            className="sc-EHOje jTbhvy"
-            src=""
-            style={
-              Object {
-                "cursor": "pointer",
-              }
-            }
-          />
-        </div>
-      </a>
-      <a
-        href="https://www.linkedin.com/in/davidchellapah/"
-        target="_blank"
+        }
+      />
+      <div
+        className="sc-htpNat kHdJfM"
+        style={
+          Object {
+            "flex": 2,
+          }
+        }
       >
-        <div
-          className="sc-htpNat gPIfr"
+        <a
+          href="https://github.com/davidc94"
+          target="_blank"
         >
-          <img
-            className="sc-EHOje jTbhvy"
-            src=""
-            style={
-              Object {
-                "cursor": "pointer",
+          <div
+            className="sc-htpNat gPIfr"
+          >
+            <img
+              className="sc-EHOje jTbhvy"
+              src=""
+              style={
+                Object {
+                  "cursor": "pointer",
+                }
               }
-            }
-          />
-        </div>
-      </a>
+            />
+          </div>
+        </a>
+      </div>
+      <div
+        className="sc-htpNat kHdJfM"
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+      <div
+        className="sc-htpNat kHdJfM"
+        style={
+          Object {
+            "flex": 2,
+          }
+        }
+      >
+        <a
+          href="https://www.linkedin.com/in/davidchellapah/"
+          target="_blank"
+        >
+          <div
+            className="sc-htpNat gPIfr"
+          >
+            <img
+              className="sc-EHOje jTbhvy"
+              src=""
+              style={
+                Object {
+                  "cursor": "pointer",
+                }
+              }
+            />
+          </div>
+        </a>
+      </div>
+      <div
+        className="sc-htpNat kHdJfM"
+        style={
+          Object {
+            "flex": 8,
+          }
+        }
+      />
     </div>
   </div>
 </div>

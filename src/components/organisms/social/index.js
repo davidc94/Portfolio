@@ -16,9 +16,16 @@ const Social = (props) => (
       </StyledDiv>
       <StyledDiv style={{ flex: 1 }} />
     </StyledDiv>
-    <StyledDiv style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-      <StyledSocialButton social='github' style={{ margin: '8px' }} />
-      <StyledSocialButton social='linkedin' />
+    <StyledDiv width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+      <StyledDiv style={{ flex: 8 }} />
+      <StyledDiv style={{ flex: 2 }}>
+        <StyledSocialButton social='github' />
+      </StyledDiv>
+      <StyledDiv style={{ flex: 1 }} />
+      <StyledDiv style={{ flex: 2 }}>
+        <StyledSocialButton social='linkedin' />
+      </StyledDiv>
+      <StyledDiv style={{ flex: 8 }} />
     </StyledDiv>
   </StyledDiv>
 );
