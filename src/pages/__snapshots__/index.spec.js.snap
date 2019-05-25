@@ -15,6 +15,19 @@ exports[`Index renders as expected 1`] = `
     content="width=device-width, initial-scale=1.0"
     name="viewport"
   />
+  <video
+    autoPlay={true}
+    className="sc-bZQynM cGJBSr"
+    loop={true}
+    muted={true}
+    poster=""
+    preload="auto"
+  >
+    <source
+      src=""
+      type="video/mp4"
+    />
+  </video>
   <div
     className="sc-htpNat iPErbm"
     style={
@@ -180,13 +193,7 @@ exports[`Index renders as expected 1`] = `
           className="sc-bxivhb iHgCkS"
           size="large"
         >
-          Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University in 2017 with a Bachelors degree in Computer Science.
-        </p>
-        <p
-          className="sc-bxivhb iHgCkS"
-          size="large"
-        >
-          I'm a huge gaming 🕹 enthusiast as well as TV and film 🎬 (I'm basically a nerd). I also enjoy building apps and PCs when I can (building PCs is expensive ☹️)
+          Hello, my name is David. I'm a 24 year old developer from London who graduated from Brunel University in 2017 with a Bachelors degree in Computer Science. I've been working at giffgaff as a software developer since then.
         </p>
       </div>
       <div
@@ -318,111 +325,6 @@ exports[`Index renders as expected 1`] = `
         style={
           Object {
             "flex": 1,
-          }
-        }
-      />
-    </div>
-  </div>
-  <div
-    className="sc-htpNat bEbVeu"
-    style={
-      Object {
-        "alignItems": "center",
-        "display": "flex",
-        "flexDirection": "column",
-        "justifyContent": "flex-start",
-        "padding": "48px 0px",
-      }
-    }
-    width="full"
-  >
-    <div
-      className="sc-htpNat bEbVeu"
-      style={
-        Object {
-          "alignItems": "center",
-          "display": "flex",
-          "flexDirection": "row",
-          "justifyContent": "flex-start",
-        }
-      }
-      width="full"
-    >
-      <div
-        className="sc-htpNat kNnnXB"
-        style={
-          Object {
-            "flex": 1,
-          }
-        }
-      />
-      <div
-        className="sc-htpNat kNnnXB"
-        style={
-          Object {
-            "flex": 2,
-          }
-        }
-      >
-        <h1
-          className="sc-bdVaJa dEEqkm"
-          color="#2B303A"
-          size="large"
-        >
-          Gallery
-        </h1>
-      </div>
-      <div
-        className="sc-htpNat kNnnXB"
-        style={
-          Object {
-            "flex": 1,
-          }
-        }
-      />
-    </div>
-    <div
-      className="sc-htpNat bEbVeu"
-      style={
-        Object {
-          "alignItems": "center",
-          "display": "flex",
-          "flexDirection": "row",
-          "justifyContent": "flex-start",
-          "maxWidth": "1080px",
-        }
-      }
-      width="full"
-    >
-      <div
-        className="sc-htpNat kNnnXB"
-        style={
-          Object {
-            "flex": 5,
-          }
-        }
-      />
-      <div
-        className="sc-htpNat kNnnXB"
-        style={
-          Object {
-            "flex": 20,
-            "flexDirection": "column",
-          }
-        }
-      >
-        <p
-          className="sc-bxivhb iHgCkS"
-          size="large"
-        >
-          Now that the boring stuff is out of the way, I also enjoy photography and shooting videos so here's a small collection of of videos and pictures from travelling ✈️.
-        </p>
-      </div>
-      <div
-        className="sc-htpNat kNnnXB"
-        style={
-          Object {
-            "flex": 5,
           }
         }
       />
