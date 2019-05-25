@@ -2,7 +2,7 @@
 
 exports[`Projects component render Projects as expected 1`] = `
 <div
-  className="sc-htpNat iPErbm"
+  className="sc-htpNat bWSVUI"
   style={
     Object {
       "alignItems": "center",
@@ -15,7 +15,7 @@ exports[`Projects component render Projects as expected 1`] = `
   width="full"
 >
   <div
-    className="sc-htpNat iPErbm"
+    className="sc-htpNat bWSVUI"
     style={
       Object {
         "alignItems": "center",
@@ -27,7 +27,7 @@ exports[`Projects component render Projects as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 1,
@@ -35,7 +35,7 @@ exports[`Projects component render Projects as expected 1`] = `
       }
     />
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 2,
@@ -51,7 +51,7 @@ exports[`Projects component render Projects as expected 1`] = `
       </h1>
     </div>
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 1,
@@ -60,7 +60,7 @@ exports[`Projects component render Projects as expected 1`] = `
     />
   </div>
   <div
-    className="sc-htpNat iPErbm"
+    className="sc-htpNat bWSVUI"
     style={
       Object {
         "alignItems": "center",
@@ -73,7 +73,7 @@ exports[`Projects component render Projects as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 1,
@@ -81,7 +81,7 @@ exports[`Projects component render Projects as expected 1`] = `
       }
     />
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 4,
@@ -93,30 +93,72 @@ exports[`Projects component render Projects as expected 1`] = `
         className="sc-bdVaJa kAfGma"
         color="#EEE5E9"
         size="large"
+        style={
+          Object {
+            "marginBottom": "8px",
+          }
+        }
       >
-        Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
+        Here's a list of projects I've worked on both professionally and personally:
       </p>
       <div
-        className="sc-htpNat eUoRCQ"
+        className="sc-htpNat gpZXSr"
       >
-        <li
-          className="sc-bxivhb cgpsMn"
-          color="#EEE5E9"
-          size="large"
+        <a
+          href="https://github.com/davidc94/Portfolio"
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+          target="_blank"
         >
-          This website
-        </li>
-        <li
-          className="sc-bxivhb cgpsMn"
-          color="#EEE5E9"
-          size="large"
+          <li
+            className="sc-bxivhb cgpsMn"
+            color="#EEE5E9"
+            size="large"
+          >
+            This website
+          </li>
+        </a>
+        <a
+          href="https://github.com/davidc94/LightsCameraHome"
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+          target="_blank"
         >
-          Smart Home App (Uni dissertation)
-        </li>
+          <li
+            className="sc-bxivhb cgpsMn"
+            color="#EEE5E9"
+            size="large"
+          >
+            Smart Home App
+          </li>
+        </a>
+        <a
+          href="https://github.com/davidc94/money-manager-poc"
+          style={
+            Object {
+              "textDecoration": "none",
+            }
+          }
+          target="_blank"
+        >
+          <li
+            className="sc-bxivhb cgpsMn"
+            color="#EEE5E9"
+            size="large"
+          >
+            giffgaff Money Manager App POC
+          </li>
+        </a>
       </div>
     </div>
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 1,

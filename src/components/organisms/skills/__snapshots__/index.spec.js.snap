@@ -2,7 +2,7 @@
 
 exports[`Skills component render Skills as expected 1`] = `
 <div
-  className="sc-bwzfXH bejfXd"
+  className="sc-bwzfXH cdjUxg"
   width="full"
 >
   <p
@@ -19,7 +19,7 @@ exports[`Skills component render Skills as expected 1`] = `
     Here are some of the skills 🥋 I've picked up along the way
   </p>
   <div
-    className="sc-bwzfXH hknQqq"
+    className="sc-bwzfXH eCKaPK"
   >
     <li
       className="sc-htpNat eAyckY"

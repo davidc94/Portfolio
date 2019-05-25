@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProjectLink renders as expected with lightscamerahome 1`] = `
+<a
+  href="https://github.com/davidc94/LightsCameraHome"
+  style={
+    Object {
+      "textDecoration": "none",
+    }
+  }
+  target="_blank"
+>
+  <li
+    className="sc-bdVaJa bFKYNT"
+  />
+</a>
+`;
+
+exports[`ProjectLink renders as expected with moneymanager 1`] = `
+<a
+  href="https://github.com/davidc94/money-manager-poc"
+  style={
+    Object {
+      "textDecoration": "none",
+    }
+  }
+  target="_blank"
+>
+  <li
+    className="sc-bdVaJa bFKYNT"
+  />
+</a>
+`;
+
+exports[`ProjectLink renders as expected with portfolio 1`] = `
+<a
+  href="https://github.com/davidc94/Portfolio"
+  style={
+    Object {
+      "textDecoration": "none",
+    }
+  }
+  target="_blank"
+>
+  <li
+    className="sc-bdVaJa bFKYNT"
+  />
+</a>
+`;

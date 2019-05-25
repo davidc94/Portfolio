@@ -4,6 +4,7 @@ import StyledText from '../../atoms/text';
 import StyledHeader from '../../atoms/header';
 import StyledDiv from '../../atoms/div';
 import StyledListItem from '../../atoms/list';
+import StyledProjectLink from '../../molecules/projectlink';
 
 const Projects = (props) => (
   <StyledDiv backgroundColor={Colors.blue} width='full' style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start', flexDirection: 'column', padding: '48px 0px' }}>
@@ -19,16 +20,19 @@ const Projects = (props) => (
     <StyledDiv width='full' backgroundColor={Colors.blue} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start', maxWidth: '1080px' }}>
       <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />
       <StyledDiv backgroundColor={Colors.blue} style={{ flex: 4, flexDirection: 'column' }}>
-        <StyledText size='large' color={Colors.lightGrey}>
-          Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
+        <StyledText size='large' color={Colors.lightGrey} style={{marginBottom: '8px'}}>
+          Here's a list of projects I've worked on both professionally and personally:
         </StyledText>
-        <StyledDiv borderWidth='small' borderColor={Colors.lightBlue} backgroundColor={Colors.blue} borderRadius='medium'>
-          <StyledListItem size='large' color={Colors.lightGrey}>
+        <StyledDiv borderColor={Colors.lightBlue} backgroundColor={Colors.blue} borderRadius='medium'>
+          <StyledProjectLink project='portfolio' size='large' color={Colors.lightGrey}>
             This website
-          </StyledListItem>
-          <StyledListItem size='large' color={Colors.lightGrey}>
-            Smart Home App (Uni dissertation)
-          </StyledListItem>
+          </StyledProjectLink>
+          <StyledProjectLink project='lightscamerahome' size='large' color={Colors.lightGrey}>
+            Smart Home App
+          </StyledProjectLink>
+          <StyledProjectLink project='moneymanager' size='large' color={Colors.lightGrey}>
+            giffgaff Money Manager App POC
+          </StyledProjectLink>
         </StyledDiv>
       </StyledDiv>
       <StyledDiv backgroundColor={Colors.blue} style={{ flex: 1 }} />

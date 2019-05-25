@@ -26,7 +26,6 @@ const DivStyling = styled('div')`
     border: ${ props => props.borderWidth ? borderWidth[props.borderWidth] : borderWidth['default'] } solid ${ props => props.borderColor ? props.borderColor : Colors.lightGrey };
     border-radius: ${ props => props.borderRadius ? borderRadius[props.borderRadius] : borderRadius['flat'] };
     display: inline-block;
-    padding: 4px;
     background-color: ${ props => props.backgroundColor ? props.backgroundColor : Colors.lightGrey };
     width: ${ props => props.width ? width[props.width] : width['default'] };
 `;

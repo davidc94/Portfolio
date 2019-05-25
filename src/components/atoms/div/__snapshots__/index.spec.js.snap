@@ -2,7 +2,7 @@
 
 exports[`StyledDiv component render StyledDiv with a different background color 1`] = `
 <div
-  className="sc-bdVaJa dUHSgJ"
+  className="sc-bdVaJa kTBsKK"
 >
   nice background color
 </div>
@@ -10,7 +10,7 @@ exports[`StyledDiv component render StyledDiv with a different background color 
 
 exports[`StyledDiv component render StyledDiv with a different border color 1`] = `
 <div
-  className="sc-bdVaJa jowqiV"
+  className="sc-bdVaJa fIeexc"
 >
   nice border color
 </div>
@@ -18,7 +18,7 @@ exports[`StyledDiv component render StyledDiv with a different border color 1`] 
 
 exports[`StyledDiv component render StyledDiv with a different border radius 1`] = `
 <div
-  className="sc-bdVaJa erEpgF"
+  className="sc-bdVaJa lblMvb"
 >
   ooh, curvy
 </div>
@@ -26,7 +26,7 @@ exports[`StyledDiv component render StyledDiv with a different border radius 1`]
 
 exports[`StyledDiv component render StyledDiv with a different border width 1`] = `
 <div
-  className="sc-bdVaJa hvHywP"
+  className="sc-bdVaJa eAUtwn"
 >
   damn this border extra thicc
 </div>
@@ -34,7 +34,7 @@ exports[`StyledDiv component render StyledDiv with a different border width 1`] 
 
 exports[`StyledDiv component render StyledDiv with a different border width and border color 1`] = `
 <div
-  className="sc-bdVaJa fRXxiL"
+  className="sc-bdVaJa hXJjeI"
 >
   wooooaaaahhhh
 </div>
@@ -42,7 +42,7 @@ exports[`StyledDiv component render StyledDiv with a different border width and 
 
 exports[`StyledDiv component render StyledDiv with a different width 1`] = `
 <div
-  className="sc-bdVaJa bSDcMg"
+  className="sc-bdVaJa bNveZT"
   width="full"
 >
   w i d e
@@ -51,7 +51,7 @@ exports[`StyledDiv component render StyledDiv with a different width 1`] = `
 
 exports[`StyledDiv component render default StyledDiv as expected 1`] = `
 <div
-  className="sc-bdVaJa eWMAkI"
+  className="sc-bdVaJa frronE"
 >
   I have nothing to offer
 </div>

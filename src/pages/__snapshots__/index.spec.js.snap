@@ -29,7 +29,7 @@ exports[`Index renders as expected 1`] = `
     />
   </video>
   <div
-    className="sc-htpNat iPErbm"
+    className="sc-htpNat bWSVUI"
     style={
       Object {
         "alignItems": "center",
@@ -41,7 +41,7 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 1,
@@ -49,7 +49,7 @@ exports[`Index renders as expected 1`] = `
       }
     />
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 2,
@@ -73,7 +73,7 @@ exports[`Index renders as expected 1`] = `
       </h1>
     </div>
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 2,
@@ -81,10 +81,10 @@ exports[`Index renders as expected 1`] = `
       }
     >
       <div
-        className="sc-htpNat fslOQR"
+        className="sc-htpNat dMVrFV"
       >
         <div
-          className="sc-htpNat fslOQR"
+          className="sc-htpNat dMVrFV"
         >
           <div
             className=""
@@ -93,7 +93,7 @@ exports[`Index renders as expected 1`] = `
       </div>
     </div>
     <div
-      className="sc-htpNat fslOQR"
+      className="sc-htpNat dMVrFV"
       style={
         Object {
           "flex": 1,
@@ -102,7 +102,7 @@ exports[`Index renders as expected 1`] = `
     />
   </div>
   <div
-    className="sc-htpNat bEbVeu"
+    className="sc-htpNat dUGsjj"
     style={
       Object {
         "alignItems": "center",
@@ -115,7 +115,7 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat bEbVeu"
+      className="sc-htpNat dUGsjj"
       style={
         Object {
           "alignItems": "center",
@@ -127,7 +127,7 @@ exports[`Index renders as expected 1`] = `
       width="full"
     >
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 1,
@@ -135,7 +135,7 @@ exports[`Index renders as expected 1`] = `
         }
       />
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 2,
@@ -151,7 +151,7 @@ exports[`Index renders as expected 1`] = `
         </h1>
       </div>
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 1,
@@ -160,7 +160,7 @@ exports[`Index renders as expected 1`] = `
       />
     </div>
     <div
-      className="sc-htpNat bEbVeu"
+      className="sc-htpNat dUGsjj"
       style={
         Object {
           "alignItems": "center",
@@ -173,7 +173,7 @@ exports[`Index renders as expected 1`] = `
       width="full"
     >
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 1,
@@ -181,7 +181,7 @@ exports[`Index renders as expected 1`] = `
         }
       />
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 4,
@@ -197,7 +197,7 @@ exports[`Index renders as expected 1`] = `
         </p>
       </div>
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 1,
@@ -207,7 +207,7 @@ exports[`Index renders as expected 1`] = `
     </div>
   </div>
   <div
-    className="sc-htpNat iPErbm"
+    className="sc-htpNat bWSVUI"
     style={
       Object {
         "alignItems": "center",
@@ -220,7 +220,7 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat iPErbm"
+      className="sc-htpNat bWSVUI"
       style={
         Object {
           "alignItems": "center",
@@ -232,7 +232,7 @@ exports[`Index renders as expected 1`] = `
       width="full"
     >
       <div
-        className="sc-htpNat fslOQR"
+        className="sc-htpNat dMVrFV"
         style={
           Object {
             "flex": 1,
@@ -240,7 +240,7 @@ exports[`Index renders as expected 1`] = `
         }
       />
       <div
-        className="sc-htpNat fslOQR"
+        className="sc-htpNat dMVrFV"
         style={
           Object {
             "flex": 2,
@@ -256,7 +256,7 @@ exports[`Index renders as expected 1`] = `
         </h1>
       </div>
       <div
-        className="sc-htpNat fslOQR"
+        className="sc-htpNat dMVrFV"
         style={
           Object {
             "flex": 1,
@@ -265,7 +265,7 @@ exports[`Index renders as expected 1`] = `
       />
     </div>
     <div
-      className="sc-htpNat iPErbm"
+      className="sc-htpNat bWSVUI"
       style={
         Object {
           "alignItems": "center",
@@ -278,7 +278,7 @@ exports[`Index renders as expected 1`] = `
       width="full"
     >
       <div
-        className="sc-htpNat fslOQR"
+        className="sc-htpNat dMVrFV"
         style={
           Object {
             "flex": 1,
@@ -286,7 +286,7 @@ exports[`Index renders as expected 1`] = `
         }
       />
       <div
-        className="sc-htpNat fslOQR"
+        className="sc-htpNat dMVrFV"
         style={
           Object {
             "flex": 4,
@@ -298,30 +298,72 @@ exports[`Index renders as expected 1`] = `
           className="sc-bxivhb ihWrPY"
           color="#EEE5E9"
           size="large"
+          style={
+            Object {
+              "marginBottom": "8px",
+            }
+          }
         >
-          Here's a list of stuff that i've done in my life that I'm pretty proud of 👏
+          Here's a list of projects I've worked on both professionally and personally:
         </p>
         <div
-          className="sc-htpNat eUoRCQ"
+          className="sc-htpNat gpZXSr"
         >
-          <li
-            className="sc-ifAKCX fzQhiQ"
-            color="#EEE5E9"
-            size="large"
+          <a
+            href="https://github.com/davidc94/Portfolio"
+            style={
+              Object {
+                "textDecoration": "none",
+              }
+            }
+            target="_blank"
           >
-            This website
-          </li>
-          <li
-            className="sc-ifAKCX fzQhiQ"
-            color="#EEE5E9"
-            size="large"
+            <li
+              className="sc-ifAKCX fzQhiQ"
+              color="#EEE5E9"
+              size="large"
+            >
+              This website
+            </li>
+          </a>
+          <a
+            href="https://github.com/davidc94/LightsCameraHome"
+            style={
+              Object {
+                "textDecoration": "none",
+              }
+            }
+            target="_blank"
           >
-            Smart Home App (Uni dissertation)
-          </li>
+            <li
+              className="sc-ifAKCX fzQhiQ"
+              color="#EEE5E9"
+              size="large"
+            >
+              Smart Home App
+            </li>
+          </a>
+          <a
+            href="https://github.com/davidc94/money-manager-poc"
+            style={
+              Object {
+                "textDecoration": "none",
+              }
+            }
+            target="_blank"
+          >
+            <li
+              className="sc-ifAKCX fzQhiQ"
+              color="#EEE5E9"
+              size="large"
+            >
+              giffgaff Money Manager App POC
+            </li>
+          </a>
         </div>
       </div>
       <div
-        className="sc-htpNat fslOQR"
+        className="sc-htpNat dMVrFV"
         style={
           Object {
             "flex": 1,
@@ -331,7 +373,7 @@ exports[`Index renders as expected 1`] = `
     </div>
   </div>
   <div
-    className="sc-htpNat bEbVeu"
+    className="sc-htpNat dUGsjj"
     style={
       Object {
         "alignItems": "center",
@@ -344,7 +386,7 @@ exports[`Index renders as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat bEbVeu"
+      className="sc-htpNat dUGsjj"
       style={
         Object {
           "alignItems": "center",
@@ -356,7 +398,7 @@ exports[`Index renders as expected 1`] = `
       width="full"
     >
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 1,
@@ -364,7 +406,7 @@ exports[`Index renders as expected 1`] = `
         }
       />
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 2,
@@ -380,7 +422,7 @@ exports[`Index renders as expected 1`] = `
         </h1>
       </div>
       <div
-        className="sc-htpNat kNnnXB"
+        className="sc-htpNat kHdJfM"
         style={
           Object {
             "flex": 1,
@@ -389,7 +431,7 @@ exports[`Index renders as expected 1`] = `
       />
     </div>
     <div
-      className="sc-htpNat kNnnXB"
+      className="sc-htpNat kHdJfM"
       style={
         Object {
           "alignItems": "center",
@@ -403,7 +445,7 @@ exports[`Index renders as expected 1`] = `
         target="_blank"
       >
         <div
-          className="sc-htpNat iHluLm"
+          className="sc-htpNat gPIfr"
           style={
             Object {
               "margin": "8px",
@@ -426,7 +468,7 @@ exports[`Index renders as expected 1`] = `
         target="_blank"
       >
         <div
-          className="sc-htpNat iHluLm"
+          className="sc-htpNat gPIfr"
         >
           <img
             className="sc-EHOje jTbhvy"

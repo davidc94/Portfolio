@@ -2,7 +2,7 @@
 
 exports[`Social component render Social as expected 1`] = `
 <div
-  className="sc-htpNat bEbVeu"
+  className="sc-htpNat dUGsjj"
   style={
     Object {
       "alignItems": "center",
@@ -15,7 +15,7 @@ exports[`Social component render Social as expected 1`] = `
   width="full"
 >
   <div
-    className="sc-htpNat bEbVeu"
+    className="sc-htpNat dUGsjj"
     style={
       Object {
         "alignItems": "center",
@@ -27,7 +27,7 @@ exports[`Social component render Social as expected 1`] = `
     width="full"
   >
     <div
-      className="sc-htpNat kNnnXB"
+      className="sc-htpNat kHdJfM"
       style={
         Object {
           "flex": 1,
@@ -35,7 +35,7 @@ exports[`Social component render Social as expected 1`] = `
       }
     />
     <div
-      className="sc-htpNat kNnnXB"
+      className="sc-htpNat kHdJfM"
       style={
         Object {
           "flex": 2,
@@ -51,7 +51,7 @@ exports[`Social component render Social as expected 1`] = `
       </h1>
     </div>
     <div
-      className="sc-htpNat kNnnXB"
+      className="sc-htpNat kHdJfM"
       style={
         Object {
           "flex": 1,
@@ -60,7 +60,7 @@ exports[`Social component render Social as expected 1`] = `
     />
   </div>
   <div
-    className="sc-htpNat kNnnXB"
+    className="sc-htpNat kHdJfM"
     style={
       Object {
         "alignItems": "center",
@@ -74,7 +74,7 @@ exports[`Social component render Social as expected 1`] = `
       target="_blank"
     >
       <div
-        className="sc-htpNat iHluLm"
+        className="sc-htpNat gPIfr"
         style={
           Object {
             "margin": "8px",
@@ -97,7 +97,7 @@ exports[`Social component render Social as expected 1`] = `
       target="_blank"
     >
       <div
-        className="sc-htpNat iHluLm"
+        className="sc-htpNat gPIfr"
       >
         <img
           className="sc-bxivhb jfnfjb"

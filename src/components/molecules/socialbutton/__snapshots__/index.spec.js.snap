@@ -6,7 +6,7 @@ exports[`SocialButton renders as expected with github 1`] = `
   target="_blank"
 >
   <div
-    className="sc-bdVaJa ekhORe"
+    className="sc-bdVaJa ctszSx"
   >
     <img
       className="sc-bwzfXH lkoPVR"
@@ -27,7 +27,7 @@ exports[`SocialButton renders as expected with linkedin 1`] = `
   target="_blank"
 >
   <div
-    className="sc-bdVaJa ekhORe"
+    className="sc-bdVaJa ctszSx"
   >
     <img
       className="sc-bwzfXH lkoPVR"
