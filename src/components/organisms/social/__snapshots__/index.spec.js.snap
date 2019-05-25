@@ -84,6 +84,11 @@ exports[`Social component render Social as expected 1`] = `
         <img
           className="sc-bxivhb jfnfjb"
           src=""
+          style={
+            Object {
+              "cursor": "pointer",
+            }
+          }
         />
       </div>
     </a>
@@ -97,6 +102,11 @@ exports[`Social component render Social as expected 1`] = `
         <img
           className="sc-bxivhb jfnfjb"
           src=""
+          style={
+            Object {
+              "cursor": "pointer",
+            }
+          }
         />
       </div>
     </a>

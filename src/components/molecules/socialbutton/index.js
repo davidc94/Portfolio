@@ -18,7 +18,7 @@ const socialImage = {
 const SocialButton = (props) => (
 <a href={socialLink[props.social]} target="_blank">
   <StyledDiv borderWidth='small' borderColor={colors.blue} borderRadius='large' style={props.style}>
-    <StyledImage type='button' url={socialImage[props.social]}/>
+    <StyledImage style={{ cursor: 'pointer' }} type='button' url={socialImage[props.social]}/>
   </StyledDiv>
 </a>
 );

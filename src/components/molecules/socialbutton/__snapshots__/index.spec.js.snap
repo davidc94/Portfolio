@@ -11,6 +11,11 @@ exports[`SocialButton renders as expected with github 1`] = `
     <img
       className="sc-bwzfXH lkoPVR"
       src=""
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
     />
   </div>
 </a>
@@ -27,6 +32,11 @@ exports[`SocialButton renders as expected with linkedin 1`] = `
     <img
       className="sc-bwzfXH lkoPVR"
       src=""
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
     />
   </div>
 </a>

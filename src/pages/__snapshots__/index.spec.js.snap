@@ -413,6 +413,11 @@ exports[`Index renders as expected 1`] = `
           <img
             className="sc-EHOje jTbhvy"
             src=""
+            style={
+              Object {
+                "cursor": "pointer",
+              }
+            }
           />
         </div>
       </a>
@@ -426,6 +431,11 @@ exports[`Index renders as expected 1`] = `
           <img
             className="sc-EHOje jTbhvy"
             src=""
+            style={
+              Object {
+                "cursor": "pointer",
+              }
+            }
           />
         </div>
       </a>
