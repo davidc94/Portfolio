@@ -1,4 +1,5 @@
 const colors = {
+    transparent: "#ffffff00",
     white: "#FFFFFF",
     black: "#000000",
     lightGrey: "#EEE5E9",
